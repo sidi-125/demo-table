@@ -1,3533 +1,1497 @@
 {
-    "isLastPage": true,
-    "limit": 1000,
-    "page": 1,
-    "pageCount": 23,
-    "Candidates": [
-      {
-        "profileVisitedStatus": "VIEWED",
-        "isFavourite": false,
-        "subProfileId": "61ddeef2a0d47d94dc796efa",
-        "number": 18,
-        "pictureUrl": "",
-        "firstName": "",
-        "lastName": "",
-        "email": "",
-        "countryCode": [
-          "Afghanistan (+93)"
-        ],
-        "mobile": "",
-        "gender": "MALE",
-        "ranks": {
-          "current": "Chief Officer",
-          "alternate": "Master"
-        },
-        "experience": {
-          "vesselExperience": [],
-          "rankExperience": [
-            {
-              "rank": "MASTER",
-              "exp": 0
-            }
-          ],
-          "seagoingExperience": [
-            {
-              "id": 20,
-              "imo": "true",
-              "vesselName": "false",
-              "rank": "MASTER",
-              "embarkationDate": {
-                "T": 1641934578,
-                "I": 0
-              },
-              "disembarkationDate": {
-                "T": 1641934578,
-                "I": 0
-              },
-              "netSeagoingDays": 0,
-              "MainEngineDesigner": "Deutz",
-              "mainEngineModel": "SBV8M628",
-              "engineType": "",
-              "mainEngineKW": 3050,
-              "mainEngineStrokeType": "4",
-              "grt": 0,
-              "dwt": 0,
-              "teu": 0,
-              "technicalManager": "",
-              "vesselType": "",
-              "scrubberDesigner": "",
-              "scrubberType": "",
-              "pumpType": "",
-              "craneSWL": "",
-              "gearless": false
-            }
-          ]
-        },
-        "trainings": {
-          "additionalTrainings": [
-            "B&W/MAN"
-          ],
-          "stcwTrainings": [
-            "Basic Safety Training A-VI/1",
-            "Basic Safety - Fire prevention and fire fighting A-VI/1"
-          ]
-        },
-        "availabilityDate": 1741772197,
-        "availabilityDateTime": "0001-01-01T00:00:00Z",
-        "dateOfBirth": "1641934578",
-        "covidVaccination": false,
-        "visas": {
-          "usVisa": false,
-          "schengenVisa": false
-        },
-        "residencePermit": [],
-        "vesselTypeExperienceInRank": [],
-        "experienceInRank": 0,
-        "nationalities": [
-          "Estonian"
-        ],
-        "salaryExpectation": {
-          "voyagePerMonth": {
-            "amount": "15778",
-            "currency": "EUR"
-          }
-        },
-        "verificationStatus": "HIRED",
-        "comment": "",
-        "interviewInformation": {
-          "invitationSent": false
-        },
-        "contactRequestInformation": {
-          "contactRequestSent": false
-        },
-        "savedCandidateId": "",
-        "engineTypeExperience": null,
-        "minEnginePowerExperience": 0,
-        "verificationRequested": false,
-        "ltAvU": 0,
-        "ltAc": 1665573027,
-        "achievements": []
+  "isLastPage": true,
+  "limit": 1000,
+  "page": 1,
+  "pageCount": 8,
+  "Candidates": [
+    {
+      "profileVisitedStatus": "VIEWED",
+      "isFavourite": false,
+      "subProfileId": "6447d65d4b08482f3e3fef62",
+      "number": 1353,
+      "pictureUrl": "",
+      "firstName": "Isa",
+      "lastName": "",
+      "email": "isaseafarerlikelogic@yopmail.com",
+      "countryCode": [
+        "Aruba (+297)"
+      ],
+      "mobile": "23594755",
+      "gender": "",
+      "ranks": {
+        "current": "Chief Officer",
+        "alternate": "Master"
       },
-      {
-        "profileVisitedStatus": "VIEWED",
-        "isFavourite": false,
-        "subProfileId": "61ddeef7a0d47d94dc797002",
-        "number": 20,
-        "pictureUrl": "",
-        "firstName": "",
-        "lastName": "",
-        "email": "",
-        "countryCode": [
-          "Afghanistan (+93)"
-        ],
-        "mobile": "",
-        "gender": "MALE",
-        "ranks": {
-          "current": "Chief Officer",
-          "alternate": "Master"
-        },
-        "experience": {
-          "vesselExperience": [],
-          "rankExperience": [
-            {
-              "rank": "MASTER",
-              "exp": 0
-            }
-          ],
-          "seagoingExperience": [
-            {
-              "id": 20,
-              "imo": "true",
-              "vesselName": "false",
-              "rank": "MASTER",
-              "embarkationDate": {
-                "T": 1641934583,
-                "I": 0
-              },
-              "disembarkationDate": {
-                "T": 1641934583,
-                "I": 0
-              },
-              "netSeagoingDays": 0,
-              "MainEngineDesigner": "Deutz",
-              "mainEngineModel": "SBV8M628",
-              "engineType": "",
-              "mainEngineKW": 3050,
-              "mainEngineStrokeType": "4",
-              "grt": 0,
-              "dwt": 0,
-              "teu": 0,
-              "technicalManager": "",
-              "vesselType": "",
-              "scrubberDesigner": "",
-              "scrubberType": "",
-              "pumpType": "",
-              "craneSWL": "",
-              "gearless": false
-            }
-          ]
-        },
-        "trainings": {
-          "additionalTrainings": [
-            "B&W/MAN"
-          ],
-          "stcwTrainings": [
-            "Basic Safety Training A-VI/1"
-          ]
-        },
-        "availabilityDate": 1641934583,
-        "availabilityDateTime": "2022-01-11T20:56:23Z",
-        "dateOfBirth": "1641934583",
-        "covidVaccination": false,
-        "visas": {
-          "usVisa": false,
-          "schengenVisa": false
-        },
-        "residencePermit": [],
-        "vesselTypeExperienceInRank": [],
-        "experienceInRank": 0,
-        "nationalities": null,
-        "salaryExpectation": {
-          "voyagePerMonth": {
-            "amount": "1",
-            "currency": "EUR"
+      "experience": {
+        "vesselExperience": [
+          {
+            "vesselType": "Yacht",
+            "exp": 0
+          },
+          {
+            "vesselType": "FPSO",
+            "exp": 0
+          },
+          {
+            "vesselType": "Other",
+            "exp": 0
+          },
+          {
+            "vesselType": "Passenger",
+            "exp": 0
+          },
+          {
+            "vesselType": "Other Offshore",
+            "exp": 10
+          },
+          {
+            "vesselType": "Crude Tanker",
+            "exp": 0
           }
-        },
-        "verificationStatus": "READY_FOR_MATCH",
-        "comment": "QV testing",
-        "interviewInformation": {
-          "invitationSent": false
-        },
-        "contactRequestInformation": {
-          "contactRequestSent": false
-        },
-        "savedCandidateId": "",
-        "engineTypeExperience": null,
-        "minEnginePowerExperience": 0,
-        "verificationRequested": false,
-        "ltAvU": 0,
-        "ltAc": 1667822246,
-        "achievements": []
-      },
-      {
-        "profileVisitedStatus": "VIEWED",
-        "isFavourite": false,
-        "subProfileId": "61ddeef9a0d47d94dc797086",
-        "number": 21,
-        "pictureUrl": "",
-        "firstName": "",
-        "lastName": "",
-        "email": "",
-        "countryCode": [
-          "Afghanistan (+93)"
         ],
-        "mobile": "",
-        "gender": "MALE",
-        "ranks": {
-          "current": "Chief Officer",
-          "alternate": "Master"
-        },
-        "experience": {
-          "vesselExperience": [],
-          "rankExperience": [
-            {
-              "rank": "MASTER",
-              "exp": 0
-            }
-          ],
-          "seagoingExperience": [
-            {
-              "id": 20,
-              "imo": "true",
-              "vesselName": "false",
-              "rank": "MASTER",
-              "embarkationDate": {
-                "T": 1641934585,
-                "I": 0
-              },
-              "disembarkationDate": {
-                "T": 1641934585,
-                "I": 0
-              },
-              "netSeagoingDays": 0,
-              "MainEngineDesigner": "Deutz",
-              "mainEngineModel": "SBV8M628",
-              "engineType": "",
-              "mainEngineKW": 3050,
-              "mainEngineStrokeType": "4",
-              "grt": 0,
-              "dwt": 0,
-              "teu": 0,
-              "technicalManager": "",
-              "vesselType": "",
-              "scrubberDesigner": "",
-              "scrubberType": "",
-              "pumpType": "",
-              "craneSWL": "",
-              "gearless": false
-            }
-          ]
-        },
-        "trainings": {
-          "additionalTrainings": [
-            "B&W/MAN"
-          ],
-          "stcwTrainings": [
-            "Basic Safety Training A-VI/1"
-          ]
-        },
-        "availabilityDate": 1741772212,
-        "availabilityDateTime": "0001-01-01T00:00:00Z",
-        "dateOfBirth": "1641934585",
-        "covidVaccination": false,
-        "visas": {
-          "usVisa": false,
-          "schengenVisa": false
-        },
-        "residencePermit": [],
-        "vesselTypeExperienceInRank": [],
-        "experienceInRank": 0,
-        "nationalities": null,
-        "salaryExpectation": {
-          "voyagePerMonth": {
-            "amount": "1",
-            "currency": "EUR"
-          }
-        },
-        "verificationStatus": "HIRED",
-        "comment": "",
-        "interviewInformation": {
-          "invitationSent": false
-        },
-        "contactRequestInformation": {
-          "contactRequestSent": false
-        },
-        "savedCandidateId": "",
-        "engineTypeExperience": null,
-        "minEnginePowerExperience": 0,
-        "verificationRequested": false,
-        "ltAvU": 0,
-        "ltAc": 0,
-        "achievements": []
-      },
-      {
-        "profileVisitedStatus": "VIEWED",
-        "isFavourite": false,
-        "subProfileId": "61ddeefba0d47d94dc79710a",
-        "number": 22,
-        "pictureUrl": "",
-        "firstName": "",
-        "lastName": "",
-        "email": "",
-        "countryCode": [
-          "Afghanistan (+93)"
-        ],
-        "mobile": "",
-        "gender": "MALE",
-        "ranks": {
-          "current": "Chief Officer",
-          "alternate": "Master"
-        },
-        "experience": {
-          "vesselExperience": [],
-          "rankExperience": [
-            {
-              "rank": "MASTER",
-              "exp": 0
-            }
-          ],
-          "seagoingExperience": [
-            {
-              "id": 20,
-              "imo": "true",
-              "vesselName": "false",
-              "rank": "MASTER",
-              "embarkationDate": {
-                "T": 1641934587,
-                "I": 0
-              },
-              "disembarkationDate": {
-                "T": 1641934587,
-                "I": 0
-              },
-              "netSeagoingDays": 0,
-              "MainEngineDesigner": "Deutz",
-              "mainEngineModel": "SBV8M628",
-              "engineType": "",
-              "mainEngineKW": 3050,
-              "mainEngineStrokeType": "4",
-              "grt": 0,
-              "dwt": 0,
-              "teu": 0,
-              "technicalManager": "",
-              "vesselType": "",
-              "scrubberDesigner": "",
-              "scrubberType": "",
-              "pumpType": "",
-              "craneSWL": "",
-              "gearless": false
-            }
-          ]
-        },
-        "trainings": {
-          "additionalTrainings": [
-            "B&W/MAN"
-          ],
-          "stcwTrainings": [
-            "Basic Safety Training A-VI/1"
-          ]
-        },
-        "availabilityDate": 1741772216,
-        "availabilityDateTime": "0001-01-01T00:00:00Z",
-        "dateOfBirth": "1641934587",
-        "covidVaccination": false,
-        "visas": {
-          "usVisa": false,
-          "schengenVisa": false
-        },
-        "residencePermit": [],
-        "vesselTypeExperienceInRank": [],
-        "experienceInRank": 0,
-        "nationalities": null,
-        "salaryExpectation": {
-          "voyagePerMonth": {
-            "amount": "1",
-            "currency": "EUR"
-          }
-        },
-        "verificationStatus": "HIRED",
-        "comment": "",
-        "interviewInformation": {
-          "invitationSent": false
-        },
-        "contactRequestInformation": {
-          "contactRequestSent": false
-        },
-        "savedCandidateId": "",
-        "engineTypeExperience": null,
-        "minEnginePowerExperience": 0,
-        "verificationRequested": false,
-        "ltAvU": 0,
-        "ltAc": 0,
-        "achievements": []
-      },
-      {
-        "profileVisitedStatus": "VIEWED",
-        "isFavourite": false,
-        "subProfileId": "61ddeefea0d47d94dc79718e",
-        "number": 23,
-        "pictureUrl": "",
-        "firstName": "",
-        "lastName": "",
-        "email": "",
-        "countryCode": [
-          "Afghanistan (+93)"
-        ],
-        "mobile": "",
-        "gender": "MALE",
-        "ranks": {
-          "current": "Chief Officer",
-          "alternate": "Master"
-        },
-        "experience": {
-          "vesselExperience": [
-            {
-              "vesselType": "Yacht",
-              "exp": 1
-            }
-          ],
-          "rankExperience": [
-            {
-              "rank": "MASTER",
-              "exp": 1
-            }
-          ],
-          "seagoingExperience": [
-            {
-              "id": 364,
-              "imo": "1012309",
-              "vesselName": "ROMEA",
-              "rank": "MASTER",
-              "embarkationDate": {
-                "T": 1677801600,
-                "I": 0
-              },
-              "disembarkationDate": {
-                "T": 1677888000,
-                "I": 0
-              },
-              "netSeagoingDays": 1,
-              "MainEngineDesigner": "Caterpillar",
-              "mainEngineModel": "3516C",
-              "engineType": "CATERPILLAR",
-              "mainEngineKW": 2982,
-              "mainEngineStrokeType": "4",
-              "grt": 2312,
-              "dwt": 228,
-              "teu": 0,
-              "technicalManager": "Dohle Private Marine Clients",
-              "vesselType": "Yacht",
-              "scrubberDesigner": "",
-              "scrubberType": "",
-              "pumpType": "None",
-              "craneSWL": "0",
-              "gearless": false
+        "rankExperience": [],
+        "seagoingExperience": [
+          {
+            "id": 682,
+            "imo": "5000263",
+            "vesselName": "A. M. CAMPBELL",
+            "rank": "",
+            "embarkationDate": {
+              "T": 1714521600,
+              "I": 0
             },
-            {
-              "id": 1,
-              "imo": "1000019",
-              "vesselName": "LADY K II",
-              "rank": "MASTER",
-              "embarkationDate": {
-                "T": 1641859200,
-                "I": 0
-              },
-              "disembarkationDate": {
-                "T": 1641859200,
-                "I": 0
-              },
-              "netSeagoingDays": 0,
-              "MainEngineDesigner": "Sulzer",
-              "mainEngineModel": "8TAD24",
-              "engineType": "",
-              "mainEngineKW": 1236,
-              "mainEngineStrokeType": "2",
-              "grt": 551,
-              "dwt": 164,
-              "teu": 0,
-              "technicalManager": "Unknown",
-              "vesselType": "Yacht",
-              "scrubberDesigner": "",
-              "scrubberType": "",
-              "pumpType": "",
-              "craneSWL": "0",
-              "gearless": false
+            "disembarkationDate": {
+              "T": 1715385600,
+              "I": 0
             },
-            {
-              "id": 364,
-              "imo": "1012309",
-              "vesselName": "ROMEA",
-              "rank": "",
-              "embarkationDate": {
-                "T": 0,
-                "I": 0
-              },
-              "disembarkationDate": {
-                "T": 0,
-                "I": 0
-              },
-              "netSeagoingDays": 0,
-              "MainEngineDesigner": "Caterpillar",
-              "mainEngineModel": "3516C",
-              "engineType": "CATERPILLAR",
-              "mainEngineKW": 2982,
-              "mainEngineStrokeType": "4",
-              "grt": 2312,
-              "dwt": 228,
-              "teu": 0,
-              "technicalManager": "Dohle Private Marine Clients",
-              "vesselType": "Yacht",
-              "scrubberDesigner": "",
-              "scrubberType": "",
-              "pumpType": "",
-              "craneSWL": "0",
-              "gearless": false
-            }
-          ]
-        },
-        "trainings": {
-          "additionalTrainings": [
-            "B&W/MAN"
-          ],
-          "stcwTrainings": [
-            "Basic Safety Training A-VI/1"
-          ]
-        },
-        "availabilityDate": 1679356800,
-        "availabilityDateTime": "2023-03-21T00:00:00Z",
-        "dateOfBirth": "1641859200",
-        "covidVaccination": false,
-        "visas": {
-          "usVisa": false,
-          "schengenVisa": false
-        },
-        "residencePermit": [],
-        "vesselTypeExperienceInRank": [
+            "netSeagoingDays": 10,
+            "MainEngineDesigner": "",
+            "mainEngineModel": "",
+            "engineType": "",
+            "mainEngineKW": 0,
+            "mainEngineStrokeType": "",
+            "grt": 787,
+            "dwt": 0,
+            "teu": 0,
+            "technicalManager": "Unknown",
+            "vesselType": "Other Offshore",
+            "scrubberDesigner": "",
+            "scrubberType": "",
+            "pumpType": "",
+            "craneSWL": "0",
+            "gearless": false,
+            "operator": ""
+          },
+          {
+            "id": 64264,
+            "imo": "9238856",
+            "vesselName": "FALCON",
+            "rank": "",
+            "embarkationDate": {
+              "T": 0,
+              "I": 0
+            },
+            "disembarkationDate": {
+              "T": 0,
+              "I": 0
+            },
+            "netSeagoingDays": 0,
+            "MainEngineDesigner": "MAN-B&W",
+            "mainEngineModel": "7S80MC-C",
+            "engineType": "MAN_MC",
+            "mainEngineKW": 0,
+            "mainEngineStrokeType": "",
+            "grt": 160904,
+            "dwt": 308875,
+            "teu": 0,
+            "technicalManager": "Unknown",
+            "vesselType": "Crude Tanker",
+            "scrubberDesigner": "",
+            "scrubberType": "",
+            "pumpType": "",
+            "craneSWL": "0",
+            "gearless": false,
+            "operator": ""
+          },
+          {
+            "id": 366,
+            "imo": "1012323",
+            "vesselName": "LIONHEARTEEQWEWEQWEWQEWQEWQ",
+            "rank": "",
+            "embarkationDate": {
+              "T": 0,
+              "I": 0
+            },
+            "disembarkationDate": {
+              "T": 0,
+              "I": 0
+            },
+            "netSeagoingDays": 0,
+            "MainEngineDesigner": "Caterpillar",
+            "mainEngineModel": "C32",
+            "engineType": "CATERPILLAR",
+            "mainEngineKW": 0,
+            "mainEngineStrokeType": "",
+            "grt": 2997,
+            "dwt": 650,
+            "teu": 0,
+            "technicalManager": "Camper & Nicholsons Int'l-FRA",
+            "vesselType": "Yacht",
+            "scrubberDesigner": "",
+            "scrubberType": "",
+            "pumpType": "",
+            "craneSWL": "0",
+            "gearless": false,
+            "operator": ""
+          },
+          {
+            "id": 65110,
+            "imo": "9253284",
+            "vesselName": "FSRU TOSCANA",
+            "rank": "",
+            "embarkationDate": {
+              "T": 0,
+              "I": 0
+            },
+            "disembarkationDate": {
+              "T": 0,
+              "I": 0
+            },
+            "netSeagoingDays": 0,
+            "MainEngineDesigner": "Mitsubishi",
+            "mainEngineModel": "MS36-2",
+            "engineType": "",
+            "mainEngineKW": 0,
+            "mainEngineStrokeType": "",
+            "grt": 117916,
+            "dwt": 73736,
+            "teu": 0,
+            "technicalManager": "Ecos Srl",
+            "vesselType": "FPSO",
+            "scrubberDesigner": "",
+            "scrubberType": "",
+            "pumpType": "",
+            "craneSWL": "0",
+            "gearless": false,
+            "operator": ""
+          },
+          {
+            "id": 56057,
+            "imo": "9088500",
+            "vesselName": "SOLOVEN",
+            "rank": "",
+            "embarkationDate": {
+              "T": 0,
+              "I": 0
+            },
+            "disembarkationDate": {
+              "T": 0,
+              "I": 0
+            },
+            "netSeagoingDays": 0,
+            "MainEngineDesigner": "M.T.U.",
+            "mainEngineModel": "16V396TB94",
+            "engineType": "",
+            "mainEngineKW": 0,
+            "mainEngineStrokeType": "",
+            "grt": 1200,
+            "dwt": 436,
+            "teu": 0,
+            "technicalManager": "Unknown",
+            "vesselType": "Other",
+            "scrubberDesigner": "",
+            "scrubberType": "",
+            "pumpType": "",
+            "craneSWL": "0",
+            "gearless": false,
+            "operator": ""
+          },
+          {
+            "id": 99753,
+            "imo": "9825295",
+            "vesselName": "HALUNDER JET",
+            "rank": "",
+            "embarkationDate": {
+              "T": 0,
+              "I": 0
+            },
+            "disembarkationDate": {
+              "T": 0,
+              "I": 0
+            },
+            "netSeagoingDays": 0,
+            "MainEngineDesigner": "M.T.U.",
+            "mainEngineModel": "16V4000M63L",
+            "engineType": "",
+            "mainEngineKW": 0,
+            "mainEngineStrokeType": "",
+            "grt": 1231,
+            "dwt": 96,
+            "teu": 0,
+            "technicalManager": "FRS Shipmanagement Ltd",
+            "vesselType": "Passenger",
+            "scrubberDesigner": "",
+            "scrubberType": "",
+            "pumpType": "",
+            "craneSWL": "0",
+            "gearless": false,
+            "operator": ""
+          }
+        ]
+      },
+      "trainings": {
+        "additionalTrainings": [],
+        "stcwTrainings": []
+      },
+      "availabilityDate": 1741772735,
+      "availabilityDateTime": "0001-01-01T00:00:00Z",
+      "dateOfBirth": "",
+      "covidVaccination": false,
+      "visas": {
+        "usVisa": false,
+        "schengenVisa": false
+      },
+      "residencePermit": [],
+      "vesselTypeExperienceInRank": [],
+      "experienceInRank": 0,
+      "nationalities": null,
+      "salaryExpectation": {
+        "voyagePerMonth": {
+          "amount": "200",
+          "currency": "USD"
+        }
+      },
+      "verificationStatus": "HIRED",
+      "comment": "",
+      "interviewInformation": {
+        "invitationSent": true
+      },
+      "contactRequestInformation": {
+        "contactRequestSent": false
+      },
+      "savedCandidateId": "67361ed49d9e739f4660aa09",
+      "engineTypeExperience": null,
+      "minEnginePowerExperience": 0,
+      "verificationRequested": false,
+      "ltAvU": 1729870143,
+      "ltAc": 1729870143,
+      "achievements": []
+    },
+    {
+      "profileVisitedStatus": "VIEWED",
+      "isFavourite": false,
+      "subProfileId": "649c101feabcc9f946789c44",
+      "number": 1361,
+      "pictureUrl": "",
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "countryCode": [
+        "Germany (+49)"
+      ],
+      "mobile": "",
+      "gender": "",
+      "ranks": {
+        "current": "Chief Officer",
+        "alternate": ""
+      },
+      "experience": {
+        "vesselExperience": [
+          {
+            "vesselType": "General Cargo / MPP",
+            "exp": 0
+          }
+        ],
+        "rankExperience": [],
+        "seagoingExperience": [
+          {
+            "id": 1517,
+            "imo": "5034367",
+            "vesselName": "BALASHOV",
+            "rank": "",
+            "embarkationDate": {
+              "T": 0,
+              "I": 0
+            },
+            "disembarkationDate": {
+              "T": 0,
+              "I": 0
+            },
+            "netSeagoingDays": 0,
+            "MainEngineDesigner": "",
+            "mainEngineModel": "",
+            "engineType": "",
+            "mainEngineKW": 0,
+            "mainEngineStrokeType": "0",
+            "grt": 3258,
+            "dwt": 4410,
+            "teu": 0,
+            "technicalManager": "Unknown",
+            "vesselType": "General Cargo / MPP",
+            "scrubberDesigner": "",
+            "scrubberType": "",
+            "pumpType": "",
+            "craneSWL": "0",
+            "gearless": false,
+            "operator": ""
+          }
+        ]
+      },
+      "trainings": {
+        "additionalTrainings": [],
+        "stcwTrainings": []
+      },
+      "availabilityDate": 1745582197,
+      "availabilityDateTime": "0001-01-01T00:00:00Z",
+      "dateOfBirth": "526176000",
+      "covidVaccination": false,
+      "visas": {
+        "usVisa": false,
+        "schengenVisa": false
+      },
+      "residencePermit": [],
+      "vesselTypeExperienceInRank": [],
+      "experienceInRank": 0,
+      "nationalities": null,
+      "salaryExpectation": {
+        "voyagePerMonth": {
+          "amount": "1234",
+          "currency": "USD"
+        }
+      },
+      "verificationStatus": "READY_FOR_MATCH",
+      "comment": "Testing comments for leaf ANBU 1361",
+      "interviewInformation": {
+        "invitationSent": false
+      },
+      "contactRequestInformation": {
+        "contactRequestSent": false
+      },
+      "savedCandidateId": "67614908b179b7d1f6304676",
+      "engineTypeExperience": null,
+      "minEnginePowerExperience": 0,
+      "verificationRequested": false,
+      "ltAvU": 0,
+      "ltAc": 1707323105,
+      "achievements": []
+    },
+    {
+      "profileVisitedStatus": "VIEWED",
+      "isFavourite": false,
+      "subProfileId": "636d3b390a71ef44bce34352",
+      "number": 1319,
+      "pictureUrl": "",
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "countryCode": [
+        "Pakistan (+92)"
+      ],
+      "mobile": "",
+      "gender": "MALE",
+      "ranks": {
+        "current": "3rd Officer",
+        "alternate": "Chief Officer"
+      },
+      "experience": {
+        "vesselExperience": [
+          {
+            "vesselType": "Other Offshore",
+            "exp": 30
+          },
+          {
+            "vesselType": "Chemical Tanker",
+            "exp": 104
+          },
+          {
+            "vesselType": "Yacht",
+            "exp": 482
+          },
+          {
+            "vesselType": "Bulk Carrier",
+            "exp": 517
+          },
+          {
+            "vesselType": "Other",
+            "exp": 199
+          }
+        ],
+        "rankExperience": [
+          {
+            "rank": "4TH_OFFICER",
+            "exp": 104
+          },
+          {
+            "rank": "CHIEF_OFFICER",
+            "exp": 392
+          },
           {
             "rank": "MASTER",
-            "vesselType": "Yacht",
-            "experience": 1
-          }
-        ],
-        "experienceInRank": 0,
-        "nationalities": null,
-        "salaryExpectation": {
-          "voyagePerMonth": {
-            "amount": "1",
-            "currency": "EUR"
-          }
-        },
-        "verificationStatus": "READY_FOR_MATCH_REVIEW",
-        "comment": "Candidates 23",
-        "interviewInformation": {
-          "invitationSent": false
-        },
-        "contactRequestInformation": {
-          "contactRequestSent": false
-        },
-        "savedCandidateId": "",
-        "engineTypeExperience": null,
-        "minEnginePowerExperience": 0,
-        "verificationRequested": false,
-        "ltAvU": 1698411389,
-        "ltAc": 1698411389,
-        "achievements": []
-      },
-      {
-        "profileVisitedStatus": "VIEWED",
-        "isFavourite": false,
-        "subProfileId": "61ddef00a0d47d94dc797212",
-        "number": 24,
-        "pictureUrl": "",
-        "firstName": "",
-        "lastName": "",
-        "email": "",
-        "countryCode": [
-          "Afghanistan (+93)"
-        ],
-        "mobile": "",
-        "gender": "MALE",
-        "ranks": {
-          "current": "Chief Officer",
-          "alternate": "Master"
-        },
-        "experience": {
-          "vesselExperience": [],
-          "rankExperience": [
-            {
-              "rank": "MASTER",
-              "exp": 0
-            }
-          ],
-          "seagoingExperience": [
-            {
-              "id": 20,
-              "imo": "true",
-              "vesselName": "false",
-              "rank": "MASTER",
-              "embarkationDate": {
-                "T": 1641934592,
-                "I": 0
-              },
-              "disembarkationDate": {
-                "T": 1641934592,
-                "I": 0
-              },
-              "netSeagoingDays": 0,
-              "MainEngineDesigner": "Deutz",
-              "mainEngineModel": "SBV8M628",
-              "engineType": "",
-              "mainEngineKW": 3050,
-              "mainEngineStrokeType": "4",
-              "grt": 0,
-              "dwt": 0,
-              "teu": 0,
-              "technicalManager": "",
-              "vesselType": "",
-              "scrubberDesigner": "",
-              "scrubberType": "",
-              "pumpType": "",
-              "craneSWL": "",
-              "gearless": false
-            }
-          ]
-        },
-        "trainings": {
-          "additionalTrainings": [
-            "B&W/MAN"
-          ],
-          "stcwTrainings": [
-            "Basic Safety Training A-VI/1"
-          ]
-        },
-        "availabilityDate": 1641934592,
-        "availabilityDateTime": "2022-01-11T20:56:32Z",
-        "dateOfBirth": "1641934592",
-        "covidVaccination": false,
-        "visas": {
-          "usVisa": false,
-          "schengenVisa": false
-        },
-        "residencePermit": [],
-        "vesselTypeExperienceInRank": [],
-        "experienceInRank": 0,
-        "nationalities": null,
-        "salaryExpectation": {
-          "voyagePerMonth": {
-            "amount": "1",
-            "currency": "EUR"
-          }
-        },
-        "verificationStatus": "READY_FOR_MATCH",
-        "comment": "Testing ",
-        "interviewInformation": {
-          "invitationSent": false
-        },
-        "contactRequestInformation": {
-          "contactRequestSent": false
-        },
-        "savedCandidateId": "",
-        "engineTypeExperience": null,
-        "minEnginePowerExperience": 0,
-        "verificationRequested": false,
-        "ltAvU": 0,
-        "ltAc": 1669986405,
-        "achievements": []
-      },
-      {
-        "profileVisitedStatus": "VIEWED",
-        "isFavourite": false,
-        "subProfileId": "61dea24d6527fb3d88483703",
-        "number": 56,
-        "pictureUrl": "",
-        "firstName": "",
-        "lastName": "",
-        "email": "",
-        "countryCode": [
-          "Germany (+49)"
-        ],
-        "mobile": "",
-        "gender": "",
-        "ranks": {
-          "current": "Chief Officer",
-          "alternate": "Master"
-        },
-        "experience": {
-          "vesselExperience": [],
-          "rankExperience": [],
-          "seagoingExperience": []
-        },
-        "trainings": {
-          "additionalTrainings": [],
-          "stcwTrainings": []
-        },
-        "availabilityDate": 1687392000,
-        "availabilityDateTime": "2023-06-22T00:00:00Z",
-        "dateOfBirth": "",
-        "covidVaccination": false,
-        "visas": {
-          "usVisa": false,
-          "schengenVisa": false
-        },
-        "residencePermit": [],
-        "vesselTypeExperienceInRank": [],
-        "experienceInRank": 0,
-        "nationalities": null,
-        "salaryExpectation": {
-          "voyagePerMonth": {
-            "amount": "12456",
-            "currency": "EUR"
-          }
-        },
-        "verificationStatus": "PROFILE_REQUESTED",
-        "comment": "Dev testing Search",
-        "interviewInformation": {
-          "invitationSent": false
-        },
-        "contactRequestInformation": {
-          "contactRequestSent": false
-        },
-        "savedCandidateId": "",
-        "engineTypeExperience": null,
-        "minEnginePowerExperience": 0,
-        "verificationRequested": false,
-        "ltAvU": 1687374121,
-        "ltAc": 1743098652,
-        "achievements": []
-      },
-      {
-        "profileVisitedStatus": "VIEWED",
-        "isFavourite": false,
-        "subProfileId": "61e12af1f17e690c4edd1c17",
-        "number": 72,
-        "pictureUrl": "",
-        "firstName": "",
-        "lastName": "",
-        "email": "",
-        "countryCode": [
-          "Armenia (+374)"
-        ],
-        "mobile": "",
-        "gender": "MALE",
-        "ranks": {
-          "current": "Chief Officer",
-          "alternate": ""
-        },
-        "experience": {
-          "vesselExperience": [],
-          "rankExperience": [],
-          "seagoingExperience": []
-        },
-        "trainings": {
-          "additionalTrainings": [],
-          "stcwTrainings": []
-        },
-        "availabilityDate": 1643701740,
-        "availabilityDateTime": "2022-02-01T07:49:00Z",
-        "dateOfBirth": "1641109740",
-        "covidVaccination": false,
-        "visas": {
-          "usVisa": false,
-          "schengenVisa": false
-        },
-        "residencePermit": [],
-        "vesselTypeExperienceInRank": [],
-        "experienceInRank": 0,
-        "nationalities": [
-          "Albanian",
-          "Angolan"
-        ],
-        "salaryExpectation": {
-          "voyagePerMonth": {
-            "amount": "111",
-            "currency": "EUR"
-          }
-        },
-        "verificationStatus": "PROFILE_REQUESTED",
-        "comment": "Dev testing comments on Search",
-        "interviewInformation": {
-          "invitationSent": false
-        },
-        "contactRequestInformation": {
-          "contactRequestSent": false
-        },
-        "savedCandidateId": "",
-        "engineTypeExperience": null,
-        "minEnginePowerExperience": 0,
-        "verificationRequested": false,
-        "ltAvU": 0,
-        "ltAc": 0,
-        "achievements": []
-      },
-      {
-        "profileVisitedStatus": "NOT_VIEWED",
-        "isFavourite": false,
-        "subProfileId": "61e137902cccbe7975cb3bcc",
-        "number": 73,
-        "pictureUrl": "",
-        "firstName": "",
-        "lastName": "",
-        "email": "",
-        "countryCode": [
-          "Germany (+49)"
-        ],
-        "mobile": "",
-        "gender": "DIVERSE",
-        "ranks": {
-          "current": "Chief Engineer",
-          "alternate": "2nd Officer"
-        },
-        "experience": {
-          "vesselExperience": [
-            {
-              "vesselType": "Yacht",
-              "exp": 22
-            },
-            {
-              "vesselType": "General Cargo / MPP",
-              "exp": 19
-            },
-            {
-              "vesselType": "Container",
-              "exp": 26
-            }
-          ],
-          "rankExperience": [
-            {
-              "rank": "CHIEF_OFFICER",
-              "exp": 22
-            },
-            {
-              "rank": "3RD_OFFICER",
-              "exp": 19
-            },
-            {
-              "rank": "CHIEF_ENGINEER",
-              "exp": 26
-            }
-          ],
-          "seagoingExperience": [
-            {
-              "id": 359,
-              "imo": "1012218",
-              "vesselName": "LADY JORGIA",
-              "rank": "CHIEF_OFFICER",
-              "embarkationDate": {
-                "T": 1641372480,
-                "I": 0
-              },
-              "disembarkationDate": {
-                "T": 1643273280,
-                "I": 0
-              },
-              "netSeagoingDays": 22,
-              "MainEngineDesigner": "Caterpillar",
-              "mainEngineModel": "3516C-HD",
-              "engineType": "CATERPILLAR",
-              "mainEngineKW": 4000,
-              "mainEngineStrokeType": "4",
-              "grt": 2218,
-              "dwt": 314,
-              "teu": 0,
-              "technicalManager": "",
-              "vesselType": "Yacht",
-              "scrubberDesigner": "",
-              "scrubberType": "",
-              "pumpType": "",
-              "craneSWL": "0",
-              "gearless": false
-            },
-            {
-              "id": 1322,
-              "imo": "5027443",
-              "vesselName": "MARIA DORMIO",
-              "rank": "3RD_OFFICER",
-              "embarkationDate": {
-                "T": 1641031020,
-                "I": 0
-              },
-              "disembarkationDate": {
-                "T": 1642672620,
-                "I": 0
-              },
-              "netSeagoingDays": 19,
-              "MainEngineDesigner": "",
-              "mainEngineModel": "",
-              "engineType": "",
-              "mainEngineKW": 0,
-              "mainEngineStrokeType": "0",
-              "grt": 936,
-              "dwt": 1483,
-              "teu": 0,
-              "technicalManager": "",
-              "vesselType": "General Cargo / MPP",
-              "scrubberDesigner": "",
-              "scrubberType": "",
-              "pumpType": "",
-              "craneSWL": "0",
-              "gearless": false
-            },
-            {
-              "id": 70519,
-              "imo": "9334674",
-              "vesselName": "MAERSK TAURUS",
-              "rank": "CHIEF_ENGINEER",
-              "embarkationDate": {
-                "T": 1680393600,
-                "I": 0
-              },
-              "disembarkationDate": {
-                "T": 1682640000,
-                "I": 0
-              },
-              "netSeagoingDays": 26,
-              "MainEngineDesigner": "Wartsila",
-              "mainEngineModel": "12RT-flex96C",
-              "engineType": "WARTSILA_RT_FLEX",
-              "mainEngineKW": 61776,
-              "mainEngineStrokeType": "2",
-              "grt": 94193,
-              "dwt": 113478,
-              "teu": 8112,
-              "technicalManager": "ZEABORN Ship Management",
-              "vesselType": "Container",
-              "scrubberDesigner": "",
-              "scrubberType": "",
-              "pumpType": "",
-              "craneSWL": "0",
-              "gearless": true
-            }
-          ]
-        },
-        "trainings": {
-          "additionalTrainings": [
-            "Crowd & Crisis Management"
-          ],
-          "stcwTrainings": [
-            "Basic Safety Training A-VI/1"
-          ]
-        },
-        "availabilityDate": 1642668480,
-        "availabilityDateTime": "2022-01-20T08:48:00Z",
-        "dateOfBirth": "947666880",
-        "covidVaccination": false,
-        "visas": {
-          "usVisa": false,
-          "schengenVisa": false
-        },
-        "residencePermit": [],
-        "vesselTypeExperienceInRank": [
+            "exp": 263
+          },
           {
             "rank": "CHIEF_ENGINEER",
-            "vesselType": "Container",
-            "experience": 26
-          },
-          {
-            "rank": "CHIEF_OFFICER",
-            "vesselType": "Yacht",
-            "experience": 22
+            "exp": 181
           },
           {
             "rank": "3RD_OFFICER",
-            "vesselType": "General Cargo / MPP",
-            "experience": 19
+            "exp": 392
           }
         ],
-        "experienceInRank": 1,
-        "nationalities": [
-          "Algerian"
-        ],
-        "salaryExpectation": {
-          "voyagePerMonth": {
-            "amount": "3000",
-            "currency": "EUR"
-          }
-        },
-        "verificationStatus": "READY_FOR_MATCH",
-        "comment": "",
-        "interviewInformation": {
-          "invitationSent": false
-        },
-        "contactRequestInformation": {
-          "contactRequestSent": false
-        },
-        "savedCandidateId": "",
-        "engineTypeExperience": null,
-        "minEnginePowerExperience": 0,
-        "verificationRequested": false,
-        "ltAvU": 0,
-        "ltAc": 0,
-        "achievements": []
-      },
-      {
-        "profileVisitedStatus": "NOT_VIEWED",
-        "isFavourite": false,
-        "subProfileId": "61e56a584e1b16ddec395913",
-        "number": 81,
-        "pictureUrl": "",
-        "firstName": "",
-        "lastName": "",
-        "email": "",
-        "countryCode": [
-          "Armenia (+374)"
-        ],
-        "mobile": "",
-        "gender": "MALE",
-        "ranks": {
-          "current": "2nd Engineer",
-          "alternate": "3rd Engineer"
-        },
-        "experience": {
-          "vesselExperience": [
-            {
-              "vesselType": "LPG Carrier",
-              "exp": 634
-            },
-            {
-              "vesselType": "Chemical Tanker",
-              "exp": 195
-            }
-          ],
-          "rankExperience": [
-            {
-              "rank": "2ND_ENGINEER",
-              "exp": 829
-            }
-          ],
-          "seagoingExperience": [
-            {
-              "id": 82973,
-              "imo": "9536375",
-              "vesselName": "NAVIGATOR GLOBAL",
-              "rank": "2ND_ENGINEER",
-              "embarkationDate": {
-                "T": 1698796800,
-                "I": 0
-              },
-              "disembarkationDate": {
-                "T": 1711670400,
-                "I": 0
-              },
-              "netSeagoingDays": 149,
-              "MainEngineDesigner": "MAN-B&W",
-              "mainEngineModel": "5S50MC-C",
-              "engineType": "MAN_MC",
-              "mainEngineKW": 7900,
-              "mainEngineStrokeType": "2",
-              "grt": 16823,
-              "dwt": 16670,
-              "teu": 0,
-              "technicalManager": "Northern Marine Management Pte",
-              "vesselType": "LPG Carrier",
-              "scrubberDesigner": "",
-              "scrubberType": "",
-              "pumpType": "",
-              "craneSWL": "0",
-              "gearless": false
-            },
-            {
-              "id": 15731,
-              "imo": "6806444",
-              "vesselName": "CHEMICAL PIONEER",
-              "rank": "2ND_ENGINEER",
-              "embarkationDate": {
-                "T": 1669852800,
-                "I": 0
-              },
-              "disembarkationDate": {
-                "T": 1684368000,
-                "I": 0
-              },
-              "netSeagoingDays": 168,
-              "MainEngineDesigner": "General Electric",
-              "mainEngineModel": "YYYYYY",
-              "engineType": "",
-              "mainEngineKW": 11033,
-              "mainEngineStrokeType": "0",
-              "grt": 21760,
-              "dwt": 35489,
-              "teu": 0,
-              "technicalManager": "USS Vessel Management LLC",
-              "vesselType": "Chemical Tanker",
-              "scrubberDesigner": "",
-              "scrubberType": "",
-              "pumpType": "",
-              "craneSWL": "0",
-              "gearless": false
-            },
-            {
-              "id": 82973,
-              "imo": "9536375",
-              "vesselName": "NAVIGATOR GLOBAL",
-              "rank": "2ND_ENGINEER",
-              "embarkationDate": {
-                "T": 1651363200,
-                "I": 0
-              },
-              "disembarkationDate": {
-                "T": 1664496000,
-                "I": 0
-              },
-              "netSeagoingDays": 152,
-              "MainEngineDesigner": "MAN-B&W",
-              "mainEngineModel": "5S50MC-C",
-              "engineType": "MAN_MC",
-              "mainEngineKW": 7900,
-              "mainEngineStrokeType": "2",
-              "grt": 16823,
-              "dwt": 16670,
-              "teu": 0,
-              "technicalManager": "Thome Ship Management Pte Ltd",
-              "vesselType": "LPG Carrier",
-              "scrubberDesigner": "",
-              "scrubberType": "",
-              "pumpType": "",
-              "craneSWL": "0",
-              "gearless": false
-            },
-            {
-              "id": 82973,
-              "imo": "9536375",
-              "vesselName": "NAVIGATOR GLOBAL",
-              "rank": "2ND_ENGINEER",
-              "embarkationDate": {
-                "T": 1648771200,
-                "I": 0
-              },
-              "disembarkationDate": {
-                "T": 1651276800,
-                "I": 0
-              },
-              "netSeagoingDays": 29,
-              "MainEngineDesigner": "MAN-B&W",
-              "mainEngineModel": "5S50MC-C",
-              "engineType": "MAN_MC",
-              "mainEngineKW": 7900,
-              "mainEngineStrokeType": "2",
-              "grt": 16823,
-              "dwt": 16670,
-              "teu": 0,
-              "technicalManager": "Thome Ship Management Pte Ltd",
-              "vesselType": "LPG Carrier",
-              "scrubberDesigner": "",
-              "scrubberType": "",
-              "pumpType": "",
-              "craneSWL": "0",
-              "gearless": false
-            },
-            {
-              "id": 15731,
-              "imo": "6806444",
-              "vesselName": "CHEMICAL PIONEER",
-              "rank": "2ND_ENGINEER",
-              "embarkationDate": {
-                "T": 1647561600,
-                "I": 0
-              },
-              "disembarkationDate": {
-                "T": 1648684800,
-                "I": 0
-              },
-              "netSeagoingDays": 13,
-              "MainEngineDesigner": "General Electric",
-              "mainEngineModel": "YYYYYY",
-              "engineType": "",
-              "mainEngineKW": 11033,
-              "mainEngineStrokeType": "0",
-              "grt": 21760,
-              "dwt": 35489,
-              "teu": 0,
-              "technicalManager": "USS Vessel Management LLC",
-              "vesselType": "Chemical Tanker",
-              "scrubberDesigner": "",
-              "scrubberType": "",
-              "pumpType": "",
-              "craneSWL": "0",
-              "gearless": false
-            },
-            {
-              "id": 15731,
-              "imo": "6806444",
-              "vesselName": "CHEMICAL PIONEER",
-              "rank": "2ND_ENGINEER",
-              "embarkationDate": {
-                "T": 1646265600,
-                "I": 0
-              },
-              "disembarkationDate": {
-                "T": 1647475200,
-                "I": 0
-              },
-              "netSeagoingDays": 14,
-              "MainEngineDesigner": "General Electric",
-              "mainEngineModel": "YYYYYY",
-              "engineType": "",
-              "mainEngineKW": 11033,
-              "mainEngineStrokeType": "0",
-              "grt": 21760,
-              "dwt": 35489,
-              "teu": 0,
-              "technicalManager": "USS Vessel Management LLC",
-              "vesselType": "Chemical Tanker",
-              "scrubberDesigner": "",
-              "scrubberType": "",
-              "pumpType": "",
-              "craneSWL": "0",
-              "gearless": false
-            },
-            {
-              "id": 82973,
-              "imo": "9536375",
-              "vesselName": "NAVIGATOR GLOBAL",
-              "rank": "2ND_ENGINEER",
-              "embarkationDate": {
-                "T": 1609459200,
-                "I": 0
-              },
-              "disembarkationDate": {
-                "T": 1635724800,
-                "I": 0
-              },
-              "netSeagoingDays": 304,
-              "MainEngineDesigner": "MAN-B&W",
-              "mainEngineModel": "5S50MC-C",
-              "engineType": "MAN_MC",
-              "mainEngineKW": 7900,
-              "mainEngineStrokeType": "2",
-              "grt": 16823,
-              "dwt": 16670,
-              "teu": 0,
-              "technicalManager": "Thome Ship Management Pte Ltd",
-              "vesselType": "LPG Carrier",
-              "scrubberDesigner": "",
-              "scrubberType": "",
-              "pumpType": "",
-              "craneSWL": "0",
-              "gearless": false
-            }
-          ]
-        },
-        "trainings": {
-          "additionalTrainings": [
-            "MAN ME Training"
-          ],
-          "stcwTrainings": [
-            "Proficiency in survival crafts and rescue boats other than fast rescue boats A-VI/2-1",
-            "Basic Safety - Elementary first aid A-VI/1"
-          ]
-        },
-        "availabilityDate": 1745020800,
-        "availabilityDateTime": "2025-04-19T00:00:00Z",
-        "dateOfBirth": "695520000",
-        "covidVaccination": false,
-        "visas": {
-          "usVisa": false,
-          "schengenVisa": false
-        },
-        "residencePermit": [],
-        "vesselTypeExperienceInRank": [
+        "seagoingExperience": [
           {
-            "rank": "2ND_ENGINEER",
+            "id": 582,
+            "imo": "4764111",
+            "vesselName": "AUSTAL 815",
+            "rank": "3RD_OFFICER",
+            "embarkationDate": {
+              "T": 1735689600,
+              "I": 0
+            },
+            "disembarkationDate": {
+              "T": 1738281600,
+              "I": 0
+            },
+            "netSeagoingDays": 30,
+            "MainEngineDesigner": "Caterpillar",
+            "mainEngineModel": "3516C",
+            "engineType": "CATERPILLAR",
+            "mainEngineKW": 2984,
+            "mainEngineStrokeType": "4",
+            "grt": 713,
+            "dwt": 120,
+            "teu": 0,
+            "technicalManager": "Unknown",
+            "vesselType": "Other Offshore",
+            "scrubberDesigner": "",
+            "scrubberType": "",
+            "pumpType": "MARFLEX",
+            "craneSWL": "0",
+            "gearless": false,
+            "operator": "Australia Govt Border Protect"
+          },
+          {
+            "id": 2135,
+            "imo": "5054513",
+            "vesselName": "ZENAIDE A",
+            "rank": "4TH_OFFICER",
+            "embarkationDate": {
+              "T": 1726617600,
+              "I": 0
+            },
+            "disembarkationDate": {
+              "T": 1735603200,
+              "I": 0
+            },
+            "netSeagoingDays": 104,
+            "MainEngineDesigner": "",
+            "mainEngineModel": "",
+            "engineType": "",
+            "mainEngineKW": 0,
+            "mainEngineStrokeType": "0",
+            "grt": 5987,
+            "dwt": 9106,
+            "teu": 0,
+            "technicalManager": "Unknown",
             "vesselType": "Chemical Tanker",
-            "experience": 195
+            "scrubberDesigner": "",
+            "scrubberType": "",
+            "pumpType": "COP",
+            "craneSWL": "0",
+            "gearless": false,
+            "operator": "Unknown"
           },
           {
-            "rank": "2ND_ENGINEER",
-            "vesselType": "LPG Carrier",
-            "experience": 634
-          }
-        ],
-        "experienceInRank": 27,
-        "nationalities": [
-          "Algerian"
-        ],
-        "salaryExpectation": {
-          "voyagePerMonth": {
-            "amount": "6900",
-            "currency": "USD"
-          }
-        },
-        "verificationStatus": "READY_FOR_MATCH",
-        "comment": "",
-        "interviewInformation": {
-          "invitationSent": false
-        },
-        "contactRequestInformation": {
-          "contactRequestSent": false
-        },
-        "savedCandidateId": "",
-        "engineTypeExperience": null,
-        "minEnginePowerExperience": 0,
-        "verificationRequested": false,
-        "ltAvU": 1740662139,
-        "ltAc": 1740662139,
-        "achievements": []
-      },
-      {
-        "profileVisitedStatus": "NOT_VIEWED",
-        "isFavourite": false,
-        "subProfileId": "61e6c444650f2ac2a3855740",
-        "number": 85,
-        "pictureUrl": "",
-        "firstName": "",
-        "lastName": "",
-        "email": "",
-        "countryCode": [
-          "Uganda (+256)"
-        ],
-        "mobile": "",
-        "gender": "",
-        "ranks": {
-          "current": "2nd Engineer",
-          "alternate": ""
-        },
-        "experience": {
-          "vesselExperience": [
-            {
-              "vesselType": "Bulk Carrier",
-              "exp": 31
-            },
-            {
-              "vesselType": "Container",
-              "exp": 31
-            }
-          ],
-          "rankExperience": [
-            {
-              "rank": "2ND_ENGINEER",
-              "exp": 62
-            }
-          ],
-          "seagoingExperience": [
-            {
-              "id": 54730,
-              "imo": "9057446",
-              "vesselName": "JOHANNA OLDENDORFF",
-              "rank": "2ND_ENGINEER",
-              "embarkationDate": {
-                "T": 1641046260,
-                "I": 0
-              },
-              "disembarkationDate": {
-                "T": 1643724660,
-                "I": 0
-              },
-              "netSeagoingDays": 31,
-              "MainEngineDesigner": "Sulzer",
-              "mainEngineModel": "6RTA62U",
-              "engineType": "WARTSILA_RTA",
-              "mainEngineKW": 9000,
-              "mainEngineStrokeType": "2",
-              "grt": 38172,
-              "dwt": 67508,
-              "teu": 0,
-              "technicalManager": "",
-              "vesselType": "Bulk Carrier",
-              "scrubberDesigner": "",
-              "scrubberType": "",
-              "pumpType": "",
-              "craneSWL": "30",
-              "gearless": false
-            },
-            {
-              "id": 97273,
-              "imo": "9778806",
-              "vesselName": "MUNICH MAERSK",
-              "rank": "2ND_ENGINEER",
-              "embarkationDate": {
-                "T": 1641045900,
-                "I": 0
-              },
-              "disembarkationDate": {
-                "T": 1643724300,
-                "I": 0
-              },
-              "netSeagoingDays": 31,
-              "MainEngineDesigner": "MAN-B&W",
-              "mainEngineModel": "7G80ME-C9",
-              "engineType": "MAN_ME",
-              "mainEngineKW": 62000,
-              "mainEngineStrokeType": "2",
-              "grt": 214286,
-              "dwt": 190326,
-              "teu": 20568,
-              "technicalManager": "",
-              "vesselType": "Container",
-              "scrubberDesigner": "",
-              "scrubberType": "",
-              "pumpType": "",
-              "craneSWL": "0",
-              "gearless": true
-            }
-          ]
-        },
-        "trainings": {
-          "additionalTrainings": [],
-          "stcwTrainings": []
-        },
-        "availabilityDate": 1741772365,
-        "availabilityDateTime": "0001-01-01T00:00:00Z",
-        "dateOfBirth": "",
-        "covidVaccination": false,
-        "visas": {
-          "usVisa": false,
-          "schengenVisa": false
-        },
-        "residencePermit": [],
-        "vesselTypeExperienceInRank": [
-          {
-            "rank": "2ND_ENGINEER",
-            "vesselType": "Bulk Carrier",
-            "experience": 31
-          },
-          {
-            "rank": "2ND_ENGINEER",
-            "vesselType": "Container",
-            "experience": 31
-          }
-        ],
-        "experienceInRank": 2,
-        "nationalities": null,
-        "salaryExpectation": {
-          "voyagePerMonth": {
-            "amount": "123",
-            "currency": "EUR"
-          }
-        },
-        "verificationStatus": "WAITING_FOR_VC",
-        "comment": "",
-        "interviewInformation": {
-          "invitationSent": false
-        },
-        "contactRequestInformation": {
-          "contactRequestSent": false
-        },
-        "savedCandidateId": "",
-        "engineTypeExperience": null,
-        "minEnginePowerExperience": 0,
-        "verificationRequested": false,
-        "ltAvU": 0,
-        "ltAc": 0,
-        "achievements": []
-      },
-      {
-        "profileVisitedStatus": "VIEWED",
-        "isFavourite": false,
-        "subProfileId": "61e6ea04c87cdba8e68f6f32",
-        "number": 88,
-        "pictureUrl": "",
-        "firstName": "",
-        "lastName": "",
-        "email": "",
-        "countryCode": [
-          "Ivory Coast (+225)"
-        ],
-        "mobile": "",
-        "gender": "",
-        "ranks": {
-          "current": "Chief Officer",
-          "alternate": ""
-        },
-        "experience": {
-          "vesselExperience": [],
-          "rankExperience": [],
-          "seagoingExperience": []
-        },
-        "trainings": {
-          "additionalTrainings": [],
-          "stcwTrainings": []
-        },
-        "availabilityDate": 1741772371,
-        "availabilityDateTime": "0001-01-01T00:00:00Z",
-        "dateOfBirth": "",
-        "covidVaccination": false,
-        "visas": {
-          "usVisa": false,
-          "schengenVisa": false
-        },
-        "residencePermit": [],
-        "vesselTypeExperienceInRank": [],
-        "experienceInRank": 0,
-        "nationalities": null,
-        "salaryExpectation": {
-          "voyagePerMonth": {
-            "amount": "12323",
-            "currency": "USD"
-          }
-        },
-        "verificationStatus": "PROFILE_REQUESTED",
-        "comment": "",
-        "interviewInformation": {
-          "invitationSent": false
-        },
-        "contactRequestInformation": {
-          "contactRequestSent": false
-        },
-        "savedCandidateId": "",
-        "engineTypeExperience": null,
-        "minEnginePowerExperience": 0,
-        "verificationRequested": false,
-        "ltAvU": 0,
-        "ltAc": 0,
-        "achievements": []
-      },
-      {
-        "profileVisitedStatus": "NOT_VIEWED",
-        "isFavourite": false,
-        "subProfileId": "61e922f651dce60dd144d78d",
-        "number": 99,
-        "pictureUrl": "",
-        "firstName": "",
-        "lastName": "",
-        "email": "",
-        "countryCode": [
-          "Bahrain (+973)"
-        ],
-        "mobile": "",
-        "gender": "MALE",
-        "ranks": {
-          "current": "2nd Engineer",
-          "alternate": "2nd Engineer"
-        },
-        "experience": {
-          "vesselExperience": [
-            {
-              "vesselType": "Yacht",
-              "exp": 25
-            }
-          ],
-          "rankExperience": [
-            {
-              "rank": "3RD_OFFICER",
-              "exp": 25
-            }
-          ],
-          "seagoingExperience": [
-            {
-              "id": 29,
-              "imo": "1002249",
-              "vesselName": "TANIT",
-              "rank": "3RD_OFFICER",
-              "embarkationDate": {
-                "T": 1646304480,
-                "I": 0
-              },
-              "disembarkationDate": {
-                "T": 1648547280,
-                "I": 0
-              },
-              "netSeagoingDays": 25,
-              "MainEngineDesigner": "Wichmann",
-              "mainEngineModel": "6AX",
-              "engineType": "",
-              "mainEngineKW": 1260,
-              "mainEngineStrokeType": "2",
-              "grt": 1058,
-              "dwt": 0,
-              "teu": 0,
-              "technicalManager": "",
-              "vesselType": "Yacht",
-              "scrubberDesigner": "",
-              "scrubberType": "",
-              "pumpType": "",
-              "craneSWL": "0",
-              "gearless": false
-            }
-          ]
-        },
-        "trainings": {
-          "additionalTrainings": [
-            "Crowd & Crisis Management",
-            "Bridge Resource Management"
-          ],
-          "stcwTrainings": [
-            "Basic Safety - Fire prevention and fire fighting A-VI/1"
-          ]
-        },
-        "availabilityDate": 1641027300,
-        "availabilityDateTime": "2022-01-01T08:55:00Z",
-        "dateOfBirth": "789036900",
-        "covidVaccination": false,
-        "visas": {
-          "usVisa": false,
-          "schengenVisa": false
-        },
-        "residencePermit": [],
-        "vesselTypeExperienceInRank": [
-          {
-            "rank": "3RD_OFFICER",
-            "vesselType": "Yacht",
-            "experience": 25
-          }
-        ],
-        "experienceInRank": 0,
-        "nationalities": [
-          "Bahamian",
-          "Belarusian"
-        ],
-        "salaryExpectation": {
-          "voyagePerMonth": {
-            "amount": "7100",
-            "currency": "EUR"
-          }
-        },
-        "verificationStatus": "READY_FOR_MATCH_REVIEW",
-        "comment": "",
-        "interviewInformation": {
-          "invitationSent": false
-        },
-        "contactRequestInformation": {
-          "contactRequestSent": false
-        },
-        "savedCandidateId": "",
-        "engineTypeExperience": null,
-        "minEnginePowerExperience": 0,
-        "verificationRequested": false,
-        "ltAvU": 0,
-        "ltAc": 0,
-        "achievements": []
-      },
-      {
-        "profileVisitedStatus": "VIEWED",
-        "isFavourite": false,
-        "subProfileId": "61e92ec8652085bda62536c1",
-        "number": 101,
-        "pictureUrl": "",
-        "firstName": "",
-        "lastName": "",
-        "email": "",
-        "countryCode": [
-          "Iceland (+354)"
-        ],
-        "mobile": "",
-        "gender": "FEMALE",
-        "ranks": {
-          "current": "Chief Officer",
-          "alternate": "2nd Officer"
-        },
-        "experience": {
-          "vesselExperience": [
-            {
-              "vesselType": "Yacht",
-              "exp": 59
-            },
-            {
-              "vesselType": "Container",
-              "exp": 0
-            }
-          ],
-          "rankExperience": [
-            {
-              "rank": "CHIEF_OFFICER",
-              "exp": 0
-            }
-          ],
-          "seagoingExperience": [
-            {
-              "id": 1,
-              "imo": "1000019",
-              "vesselName": "LADY K II",
-              "rank": "",
-              "embarkationDate": {
-                "T": 1641031500,
-                "I": 0
-              },
-              "disembarkationDate": {
-                "T": 1646129100,
-                "I": 0
-              },
-              "netSeagoingDays": 59,
-              "MainEngineDesigner": "Sulzer",
-              "mainEngineModel": "8TAD24",
-              "engineType": "",
-              "mainEngineKW": 1236,
-              "mainEngineStrokeType": "2",
-              "grt": 551,
-              "dwt": 164,
-              "teu": 0,
-              "technicalManager": "",
-              "vesselType": "Yacht",
-              "scrubberDesigner": "",
-              "scrubberType": "",
-              "pumpType": "",
-              "craneSWL": "0",
-              "gearless": false
-            },
-            {
-              "id": 97273,
-              "imo": "9778806",
-              "vesselName": "MUNICH MAERSK",
-              "rank": "CHIEF_OFFICER",
-              "embarkationDate": {
-                "T": 0,
-                "I": 0
-              },
-              "disembarkationDate": {
-                "T": 0,
-                "I": 0
-              },
-              "netSeagoingDays": 0,
-              "MainEngineDesigner": "MAN-B&W",
-              "mainEngineModel": "7G80ME-C9",
-              "engineType": "MAN_ME",
-              "mainEngineKW": 62000,
-              "mainEngineStrokeType": "2",
-              "grt": 214286,
-              "dwt": 190326,
-              "teu": 20568,
-              "technicalManager": "",
-              "vesselType": "Container",
-              "scrubberDesigner": "",
-              "scrubberType": "",
-              "pumpType": "",
-              "craneSWL": "0",
-              "gearless": true
-            }
-          ]
-        },
-        "trainings": {
-          "additionalTrainings": [],
-          "stcwTrainings": []
-        },
-        "availabilityDate": 1644361200,
-        "availabilityDateTime": "2022-02-08T23:00:00Z",
-        "dateOfBirth": "1641580860",
-        "covidVaccination": false,
-        "visas": {
-          "usVisa": false,
-          "schengenVisa": false
-        },
-        "residencePermit": [],
-        "vesselTypeExperienceInRank": [
-          {
+            "id": 312,
+            "imo": "1011111",
+            "vesselName": "4YOU",
             "rank": "CHIEF_OFFICER",
-            "vesselType": "Container",
-            "experience": 0
+            "embarkationDate": {
+              "T": 1706832000,
+              "I": 0
+            },
+            "disembarkationDate": {
+              "T": 1708560000,
+              "I": 0
+            },
+            "netSeagoingDays": 20,
+            "MainEngineDesigner": "M.T.U.",
+            "mainEngineModel": "16V2000M70",
+            "engineType": "",
+            "mainEngineKW": 2100,
+            "mainEngineStrokeType": "4",
+            "grt": 672,
+            "dwt": 0,
+            "teu": 0,
+            "technicalManager": "Edmiston Yacht Management Ltd",
+            "vesselType": "Yacht",
+            "scrubberDesigner": "",
+            "scrubberType": "",
+            "pumpType": "Framo",
+            "craneSWL": "0",
+            "gearless": false,
+            "operator": "Edmiston Yacht Management Ltd"
+          },
+          {
+            "id": 44579,
+            "imo": "8607567",
+            "vesselName": "CEMENT NAVIGATOR",
+            "rank": "3RD_OFFICER",
+            "embarkationDate": {
+              "T": 1704067200,
+              "I": 0
+            },
+            "disembarkationDate": {
+              "T": 1710374400,
+              "I": 0
+            },
+            "netSeagoingDays": 73,
+            "MainEngineDesigner": "MAN",
+            "mainEngineModel": "6L40/54A",
+            "engineType": "",
+            "mainEngineKW": 2758,
+            "mainEngineStrokeType": "4",
+            "grt": 3995,
+            "dwt": 5036,
+            "teu": 0,
+            "technicalManager": "Graig Ship Management Ltd",
+            "vesselType": "Bulk Carrier",
+            "scrubberDesigner": "",
+            "scrubberType": "",
+            "pumpType": "COP",
+            "craneSWL": "0",
+            "gearless": false,
+            "operator": "Graig Ship Management Ltd"
+          },
+          {
+            "id": 6502,
+            "imo": "5233195",
+            "vesselName": "EISEN",
+            "rank": "MASTER",
+            "embarkationDate": {
+              "T": 1701388800,
+              "I": 0
+            },
+            "disembarkationDate": {
+              "T": 1724112000,
+              "I": 0
+            },
+            "netSeagoingDays": 263,
+            "MainEngineDesigner": "Gotaverken",
+            "mainEngineModel": "760/1500VGS10",
+            "engineType": "",
+            "mainEngineKW": 7103,
+            "mainEngineStrokeType": "2",
+            "grt": 23356,
+            "dwt": 38242,
+            "teu": 0,
+            "technicalManager": "Unknown",
+            "vesselType": "Bulk Carrier",
+            "scrubberDesigner": "",
+            "scrubberType": "",
+            "pumpType": "",
+            "craneSWL": "0",
+            "gearless": false,
+            "operator": "Unknown"
+          },
+          {
+            "id": 138,
+            "imo": "1007457",
+            "vesselName": "DEJA TOO",
+            "rank": "3RD_OFFICER",
+            "embarkationDate": {
+              "T": 1695859200,
+              "I": 0
+            },
+            "disembarkationDate": {
+              "T": 1703635200,
+              "I": 0
+            },
+            "netSeagoingDays": 90,
+            "MainEngineDesigner": "Cummins",
+            "mainEngineModel": "KTA-38-M2",
+            "engineType": "CUMMINS",
+            "mainEngineKW": 1790,
+            "mainEngineStrokeType": "4",
+            "grt": 609,
+            "dwt": 134,
+            "teu": 0,
+            "technicalManager": "BURGESS Ltd",
+            "vesselType": "Yacht",
+            "scrubberDesigner": "",
+            "scrubberType": "",
+            "pumpType": "MARFLEX",
+            "craneSWL": "0",
+            "gearless": false,
+            "operator": "BURGESS Ltd"
+          },
+          {
+            "id": 30,
+            "imo": "1002328",
+            "vesselName": "ACHILLES",
+            "rank": "CHIEF_OFFICER",
+            "embarkationDate": {
+              "T": 1681257600,
+              "I": 0
+            },
+            "disembarkationDate": {
+              "T": 1713398400,
+              "I": 0
+            },
+            "netSeagoingDays": 372,
+            "MainEngineDesigner": "Deutz",
+            "mainEngineModel": "RBV8M626",
+            "engineType": "",
+            "mainEngineKW": 2940,
+            "mainEngineStrokeType": "4",
+            "grt": 558,
+            "dwt": 0,
+            "teu": 0,
+            "technicalManager": "YCO SAM",
+            "vesselType": "Yacht",
+            "scrubberDesigner": "",
+            "scrubberType": "",
+            "pumpType": "Framo",
+            "craneSWL": "0",
+            "gearless": false,
+            "operator": "YCO SAM"
+          },
+          {
+            "id": 628,
+            "imo": "4907347",
+            "vesselName": "HELLEVOETSLUIS",
+            "rank": "3RD_OFFICER",
+            "embarkationDate": {
+              "T": 1572825600,
+              "I": 0
+            },
+            "disembarkationDate": {
+              "T": 1590019200,
+              "I": 0
+            },
+            "netSeagoingDays": 199,
+            "MainEngineDesigner": "Werkspoor",
+            "mainEngineModel": "12RUB215",
+            "engineType": "",
+            "mainEngineKW": 1397,
+            "mainEngineStrokeType": "4",
+            "grt": 510,
+            "dwt": 0,
+            "teu": 0,
+            "technicalManager": "Unknown",
+            "vesselType": "Other",
+            "scrubberDesigner": "",
+            "scrubberType": "",
+            "pumpType": "COP",
+            "craneSWL": "0",
+            "gearless": false,
+            "operator": "Netherlands Govt Marine"
+          },
+          {
+            "id": 57536,
+            "imo": "9123128",
+            "vesselName": "ANDHIKA NARESWARI",
+            "rank": "CHIEF_ENGINEER",
+            "embarkationDate": {
+              "T": 1738281600,
+              "I": 0
+            },
+            "disembarkationDate": {
+              "T": 1753920000,
+              "I": 0
+            },
+            "netSeagoingDays": 181,
+            "MainEngineDesigner": "Sulzer",
+            "mainEngineModel": "6RTA62",
+            "engineType": "WARTSILA_RTA",
+            "mainEngineKW": 8900,
+            "mainEngineStrokeType": "2",
+            "grt": 38232,
+            "dwt": 71290,
+            "teu": 0,
+            "technicalManager": "Andhika Lines",
+            "vesselType": "Bulk Carrier",
+            "scrubberDesigner": "",
+            "scrubberType": "",
+            "pumpType": "MARFLEX",
+            "craneSWL": "0",
+            "gearless": true,
+            "operator": "Testing MI"
           }
-        ],
-        "experienceInRank": 0,
-        "nationalities": [
-          "Algerian"
-        ],
-        "salaryExpectation": {
-          "voyagePerMonth": {
-            "amount": "3445",
-            "currency": "EUR"
-          }
-        },
-        "verificationStatus": "READY_FOR_MATCH",
-        "comment": "Testing comments for Loki On QV",
-        "interviewInformation": {
-          "invitationSent": false
-        },
-        "contactRequestInformation": {
-          "contactRequestSent": false
-        },
-        "savedCandidateId": "",
-        "engineTypeExperience": null,
-        "minEnginePowerExperience": 0,
-        "verificationRequested": false,
-        "ltAvU": 0,
-        "ltAc": 0,
-        "achievements": []
+        ]
       },
-      {
-        "profileVisitedStatus": "VIEWED",
-        "isFavourite": false,
-        "subProfileId": "61ea568c4ee95f8000965d81",
-        "number": 104,
-        "pictureUrl": "",
-        "firstName": "",
-        "lastName": "",
-        "email": "",
-        "countryCode": [
-          "Honduras (+504)"
+      "trainings": {
+        "additionalTrainings": [
+          "Bridge Resource Management",
+          "Inventory of Hazardous Materials"
         ],
-        "mobile": "",
-        "gender": "MALE",
-        "ranks": {
-          "current": "Chief Officer",
-          "alternate": ""
+        "stcwTrainings": [
+          "Basic Safety - Personal survival techniques A-VI/1",
+          "Basic Safety - Fire prevention and fire fighting A-VI/1",
+          "Medical Care A-VI/4-2"
+        ]
+      },
+      "availabilityDate": 1741737600,
+      "availabilityDateTime": "2025-03-12T00:00:00Z",
+      "dateOfBirth": "921801600",
+      "covidVaccination": false,
+      "visas": {
+        "usVisa": false,
+        "schengenVisa": false
+      },
+      "residencePermit": [
+        "Pakistan",
+        "United States"
+      ],
+      "vesselTypeExperienceInRank": [
+        {
+          "rank": "CHIEF_ENGINEER",
+          "vesselType": "Bulk Carrier",
+          "experience": 181
         },
-        "experience": {
-          "vesselExperience": [
-            {
-              "vesselType": "Container",
-              "exp": 29
-            }
-          ],
-          "rankExperience": [
-            {
-              "rank": "MASTER",
-              "exp": 29
-            }
-          ],
-          "seagoingExperience": [
-            {
-              "id": 97273,
-              "imo": "9778806",
-              "vesselName": "MUNICH MAERSK",
-              "rank": "MASTER",
-              "embarkationDate": {
-                "T": 1641106320,
-                "I": 0
-              },
-              "disembarkationDate": {
-                "T": 1643611920,
-                "I": 0
-              },
-              "netSeagoingDays": 29,
-              "MainEngineDesigner": "MAN-B&W",
-              "mainEngineModel": "7G80ME-C9",
-              "engineType": "MAN_ME",
-              "mainEngineKW": 62000,
-              "mainEngineStrokeType": "2",
-              "grt": 214286,
-              "dwt": 190326,
-              "teu": 20568,
-              "technicalManager": "",
-              "vesselType": "Container",
-              "scrubberDesigner": "",
-              "scrubberType": "",
-              "pumpType": "",
-              "craneSWL": "0",
-              "gearless": true
-            }
-          ]
+        {
+          "rank": "3RD_OFFICER",
+          "vesselType": "Other Offshore",
+          "experience": 30
         },
-        "trainings": {
-          "additionalTrainings": [],
-          "stcwTrainings": [
-            "Basic Safety Training A-VI/1"
-          ]
+        {
+          "rank": "4TH_OFFICER",
+          "vesselType": "Chemical Tanker",
+          "experience": 104
         },
-        "availabilityDate": 1645080300,
-        "availabilityDateTime": "2022-02-17T06:45:00Z",
-        "dateOfBirth": "1641105960",
-        "covidVaccination": false,
-        "visas": {
-          "usVisa": false,
-          "schengenVisa": false
+        {
+          "rank": "CHIEF_OFFICER",
+          "vesselType": "Yacht",
+          "experience": 392
         },
-        "residencePermit": [],
-        "vesselTypeExperienceInRank": [
+        {
+          "rank": "3RD_OFFICER",
+          "vesselType": "Bulk Carrier",
+          "experience": 73
+        },
+        {
+          "rank": "MASTER",
+          "vesselType": "Bulk Carrier",
+          "experience": 263
+        },
+        {
+          "rank": "3RD_OFFICER",
+          "vesselType": "Yacht",
+          "experience": 90
+        },
+        {
+          "rank": "3RD_OFFICER",
+          "vesselType": "Other",
+          "experience": 199
+        }
+      ],
+      "experienceInRank": 13,
+      "nationalities": [
+        "Romanian",
+        "Turkish",
+        "Pakistani"
+      ],
+      "salaryExpectation": {
+        "voyagePerMonth": {
+          "amount": "567",
+          "currency": "USD"
+        }
+      },
+      "verificationStatus": "HIRED_REVIEW",
+      "comment": "Testing 1319 for HIring in Operator QV",
+      "interviewInformation": {
+        "invitationSent": false
+      },
+      "contactRequestInformation": {
+        "contactRequestSent": false
+      },
+      "savedCandidateId": "679cb5ff59904867e00c7306",
+      "engineTypeExperience": null,
+      "minEnginePowerExperience": 0,
+      "verificationRequested": false,
+      "ltAvU": 1745228111,
+      "ltAc": 1745229274,
+      "achievements": []
+    },
+    {
+      "profileVisitedStatus": "VIEWED",
+      "isFavourite": false,
+      "subProfileId": "63452867f8c065f8dc15a7c3",
+      "number": 1306,
+      "pictureUrl": "",
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "countryCode": [
+        "Andorra (+376)"
+      ],
+      "mobile": "",
+      "gender": "MALE",
+      "ranks": {
+        "current": "2nd Engineer",
+        "alternate": "3rd Engineer"
+      },
+      "experience": {
+        "vesselExperience": [
+          {
+            "vesselType": "Container",
+            "exp": 732
+          }
+        ],
+        "rankExperience": [
+          {
+            "rank": "3RD_ENGINEER",
+            "exp": 0
+          },
+          {
+            "rank": "2ND_ENGINEER",
+            "exp": 732
+          }
+        ],
+        "seagoingExperience": [
+          {
+            "id": 76060,
+            "imo": "9416989",
+            "vesselName": "NYK ROMULUS",
+            "rank": "2ND_ENGINEER",
+            "embarkationDate": {
+              "T": 1701388800,
+              "I": 0
+            },
+            "disembarkationDate": {
+              "T": 1715904000,
+              "I": 0
+            },
+            "netSeagoingDays": 168,
+            "MainEngineDesigner": "MAN-B&W",
+            "mainEngineModel": "9K98ME-C",
+            "engineType": "MAN_ME",
+            "mainEngineKW": 51390,
+            "mainEngineStrokeType": "2",
+            "grt": 55487,
+            "dwt": 65883,
+            "teu": 4888,
+            "technicalManager": "Mitsui O.S.K. Lines",
+            "vesselType": "Container",
+            "scrubberDesigner": "",
+            "scrubberType": "",
+            "pumpType": "",
+            "craneSWL": "0",
+            "gearless": true,
+            "operator": ""
+          },
+          {
+            "id": 76060,
+            "imo": "9416989",
+            "vesselName": "NYK ROMULUS",
+            "rank": "2ND_ENGINEER",
+            "embarkationDate": {
+              "T": 1681084800,
+              "I": 0
+            },
+            "disembarkationDate": {
+              "T": 1690848000,
+              "I": 0
+            },
+            "netSeagoingDays": 113,
+            "MainEngineDesigner": "MAN-B&W",
+            "mainEngineModel": "9K98ME-C",
+            "engineType": "MAN_ME",
+            "mainEngineKW": 51390,
+            "mainEngineStrokeType": "2",
+            "grt": 55487,
+            "dwt": 65883,
+            "teu": 4888,
+            "technicalManager": "Mitsui O.S.K. Lines",
+            "vesselType": "Container",
+            "scrubberDesigner": "",
+            "scrubberType": "",
+            "pumpType": "",
+            "craneSWL": "0",
+            "gearless": true,
+            "operator": ""
+          },
+          {
+            "id": 99206,
+            "imo": "9813876",
+            "vesselName": "MTT SENARI",
+            "rank": "2ND_ENGINEER",
+            "embarkationDate": {
+              "T": 1659312000,
+              "I": 0
+            },
+            "disembarkationDate": {
+              "T": 1673654400,
+              "I": 0
+            },
+            "netSeagoingDays": 166,
+            "MainEngineDesigner": "MAN-B&W",
+            "mainEngineModel": "6S50ME-C9",
+            "engineType": "MAN_ME",
+            "mainEngineKW": 10680,
+            "mainEngineStrokeType": "2",
+            "grt": 13059,
+            "dwt": 15362,
+            "teu": 1162,
+            "technicalManager": "Thomas Schulte Ship Management",
+            "vesselType": "Container",
+            "scrubberDesigner": "",
+            "scrubberType": "",
+            "pumpType": "",
+            "craneSWL": "0",
+            "gearless": true,
+            "operator": ""
+          },
+          {
+            "id": 99206,
+            "imo": "9813876",
+            "vesselName": "MTT SENARI",
+            "rank": "2ND_ENGINEER",
+            "embarkationDate": {
+              "T": 1645747200,
+              "I": 0
+            },
+            "disembarkationDate": {
+              "T": 1656374400,
+              "I": 0
+            },
+            "netSeagoingDays": 123,
+            "MainEngineDesigner": "MAN-B&W",
+            "mainEngineModel": "6S50ME-C9",
+            "engineType": "MAN_ME",
+            "mainEngineKW": 10680,
+            "mainEngineStrokeType": "2",
+            "grt": 13059,
+            "dwt": 15362,
+            "teu": 1162,
+            "technicalManager": "Thomas Schulte Ship Management",
+            "vesselType": "Container",
+            "scrubberDesigner": "",
+            "scrubberType": "",
+            "pumpType": "",
+            "craneSWL": "0",
+            "gearless": true,
+            "operator": ""
+          },
+          {
+            "id": 65645,
+            "imo": "9261906",
+            "vesselName": "CMA CGM FORT STE MARIE",
+            "rank": "2ND_ENGINEER",
+            "embarkationDate": {
+              "T": 1622505600,
+              "I": 0
+            },
+            "disembarkationDate": {
+              "T": 1636502400,
+              "I": 0
+            },
+            "netSeagoingDays": 162,
+            "MainEngineDesigner": "B&W",
+            "mainEngineModel": "8S70MC-C",
+            "engineType": "MAN_MC",
+            "mainEngineKW": 24830,
+            "mainEngineStrokeType": "2",
+            "grt": 26342,
+            "dwt": 30804,
+            "teu": 2260,
+            "technicalManager": "Thomas Schulte Ship Management",
+            "vesselType": "Container",
+            "scrubberDesigner": "",
+            "scrubberType": "",
+            "pumpType": "",
+            "craneSWL": "45",
+            "gearless": false,
+            "operator": ""
+          },
+          {
+            "id": 65645,
+            "imo": "9261906",
+            "vesselName": "CMA CGM FORT STE MARIE",
+            "rank": "3RD_ENGINEER",
+            "embarkationDate": {
+              "T": 1604188800,
+              "I": 0
+            },
+            "disembarkationDate": {
+              "T": 1598918400,
+              "I": 0
+            },
+            "netSeagoingDays": 0,
+            "MainEngineDesigner": "B&W",
+            "mainEngineModel": "8S70MC-C",
+            "engineType": "MAN_MC",
+            "mainEngineKW": 24830,
+            "mainEngineStrokeType": "2",
+            "grt": 26342,
+            "dwt": 30804,
+            "teu": 2260,
+            "technicalManager": "Thomas Schulte Ship Management",
+            "vesselType": "Container",
+            "scrubberDesigner": "",
+            "scrubberType": "",
+            "pumpType": "",
+            "craneSWL": "45",
+            "gearless": false,
+            "operator": ""
+          }
+        ]
+      },
+      "trainings": {
+        "additionalTrainings": [
+          "High Voltage",
+          "B&W/MAN",
+          "MAN ME Training",
+          "RT Flex Sulzer Engine"
+        ],
+        "stcwTrainings": [
+          "Advanced Training for Liquefied Gas Tanker Cargo Operations (A-V/1-2-2)",
+          "Proficiency in survival crafts and rescue boats other than fast rescue boats A-VI/2-1",
+          "Advanced Training for Oil Tanker Cargo Operations (A-V/1-1-2)",
+          "Basic Safety Training A-VI/1",
+          "Medical First Aid A-VI/4-1",
+          "Advanced Fire Fighting A-VI/3",
+          "Ship Security Officer A-VI/5",
+          "Seafarer with designated security duties A-VI/6-2",
+          "Advanced Training for Chemical Tanker Cargo Operations (A-V/1-1-3)"
+        ]
+      },
+      "availabilityDate": 1741783737,
+      "availabilityDateTime": "0001-01-01T00:00:00Z",
+      "dateOfBirth": "626400000",
+      "covidVaccination": false,
+      "visas": {
+        "usVisa": false,
+        "schengenVisa": false
+      },
+      "residencePermit": [],
+      "vesselTypeExperienceInRank": [
+        {
+          "rank": "2ND_ENGINEER",
+          "vesselType": "Container",
+          "experience": 732
+        },
+        {
+          "rank": "3RD_ENGINEER",
+          "vesselType": "Container",
+          "experience": 0
+        }
+      ],
+      "experienceInRank": 24,
+      "nationalities": [
+        "Romanian"
+      ],
+      "salaryExpectation": {
+        "voyagePerMonth": {
+          "amount": "7600",
+          "currency": "USD"
+        }
+      },
+      "verificationStatus": "HIRED",
+      "comment": "Testing for hire page in dev for operator",
+      "interviewInformation": {
+        "invitationSent": false
+      },
+      "contactRequestInformation": {
+        "contactRequestSent": false
+      },
+      "savedCandidateId": "67c74892befa4bd6ea87a9a0",
+      "engineTypeExperience": null,
+      "minEnginePowerExperience": 0,
+      "verificationRequested": false,
+      "ltAvU": 1732285391,
+      "ltAc": 1732285391,
+      "achievements": []
+    },
+    {
+      "profileVisitedStatus": "VIEWED",
+      "isFavourite": false,
+      "subProfileId": "61e180b11d98fea828b2b8ec",
+      "number": 77,
+      "pictureUrl": "",
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "countryCode": [
+        "Albania (+355)"
+      ],
+      "mobile": "",
+      "gender": "",
+      "ranks": {
+        "current": "2nd Officer",
+        "alternate": ""
+      },
+      "experience": {
+        "vesselExperience": [],
+        "rankExperience": [],
+        "seagoingExperience": []
+      },
+      "trainings": {
+        "additionalTrainings": [],
+        "stcwTrainings": []
+      },
+      "availabilityDate": 1642601700,
+      "availabilityDateTime": "2022-01-19T14:15:00Z",
+      "dateOfBirth": "",
+      "covidVaccination": false,
+      "visas": {
+        "usVisa": false,
+        "schengenVisa": false
+      },
+      "residencePermit": [],
+      "vesselTypeExperienceInRank": [],
+      "experienceInRank": 0,
+      "nationalities": [
+        "Algerian"
+      ],
+      "salaryExpectation": {
+        "voyagePerMonth": {
+          "amount": "21312",
+          "currency": "USD"
+        }
+      },
+      "verificationStatus": "PROFILE_REQUESTED",
+      "comment": "Dr. Strange Testing  Comments",
+      "interviewInformation": {
+        "invitationSent": false
+      },
+      "contactRequestInformation": {
+        "contactRequestSent": false
+      },
+      "savedCandidateId": "67f8263a3f80e0cb0562e312",
+      "engineTypeExperience": null,
+      "minEnginePowerExperience": 0,
+      "verificationRequested": true,
+      "ltAvU": 0,
+      "ltAc": 0,
+      "achievements": []
+    },
+    {
+      "profileVisitedStatus": "VIEWED",
+      "isFavourite": false,
+      "subProfileId": "61e17dacf0e6c594b111cf2b",
+      "number": 76,
+      "pictureUrl": "",
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "countryCode": [
+        "Sweden (+46)"
+      ],
+      "mobile": "",
+      "gender": "FEMALE",
+      "ranks": {
+        "current": "2nd Officer",
+        "alternate": "4th Officer"
+      },
+      "experience": {
+        "vesselExperience": [
+          {
+            "vesselType": "Bulk Carrier",
+            "exp": 59
+          },
+          {
+            "vesselType": "Container",
+            "exp": 31
+          }
+        ],
+        "rankExperience": [
+          {
+            "rank": "2ND_OFFICER",
+            "exp": 90
+          }
+        ],
+        "seagoingExperience": [
+          {
+            "id": 54730,
+            "imo": "9057446",
+            "vesselName": "JOHANNA OLDENDORFF",
+            "rank": "2ND_OFFICER",
+            "embarkationDate": {
+              "T": 1641048600,
+              "I": 0
+            },
+            "disembarkationDate": {
+              "T": 1646146200,
+              "I": 0
+            },
+            "netSeagoingDays": 59,
+            "MainEngineDesigner": "Sulzer",
+            "mainEngineModel": "6RTA62U",
+            "engineType": "WARTSILA_RTA",
+            "mainEngineKW": 9000,
+            "mainEngineStrokeType": "2",
+            "grt": 38172,
+            "dwt": 67508,
+            "teu": 0,
+            "technicalManager": "",
+            "vesselType": "Bulk Carrier",
+            "scrubberDesigner": "",
+            "scrubberType": "",
+            "pumpType": "",
+            "craneSWL": "30",
+            "gearless": false,
+            "operator": ""
+          },
+          {
+            "id": 97273,
+            "imo": "9778806",
+            "vesselName": "MUNICH MAERSK",
+            "rank": "2ND_OFFICER",
+            "embarkationDate": {
+              "T": 1641046080,
+              "I": 0
+            },
+            "disembarkationDate": {
+              "T": 1643724480,
+              "I": 0
+            },
+            "netSeagoingDays": 31,
+            "MainEngineDesigner": "MAN-B&W",
+            "mainEngineModel": "7G80ME-C9",
+            "engineType": "MAN_ME",
+            "mainEngineKW": 62000,
+            "mainEngineStrokeType": "2",
+            "grt": 214286,
+            "dwt": 190326,
+            "teu": 20568,
+            "technicalManager": "",
+            "vesselType": "Container",
+            "scrubberDesigner": "",
+            "scrubberType": "",
+            "pumpType": "",
+            "craneSWL": "0",
+            "gearless": true,
+            "operator": ""
+          }
+        ]
+      },
+      "trainings": {
+        "additionalTrainings": [
+          "Bridge Team Management",
+          "Bridge Team Management",
+          "Defibrillator",
+          "NBWR (Navigating Ballast Water Regulations) (CBT)"
+        ],
+        "stcwTrainings": [
+          "Dangerous & Hazardous Substances, Solid, Bulk&Packaged B-V/b&c",
+          "Advanced Training for Chemical Tanker Cargo Operations (A-V/1-1-3)",
+          "Basic Safety Training A-VI/1"
+        ]
+      },
+      "availabilityDate": 1641910080,
+      "availabilityDateTime": "2022-01-11T14:08:00Z",
+      "dateOfBirth": "1642601280",
+      "covidVaccination": false,
+      "visas": {
+        "usVisa": false,
+        "schengenVisa": false
+      },
+      "residencePermit": [],
+      "vesselTypeExperienceInRank": [
+        {
+          "rank": "2ND_OFFICER",
+          "vesselType": "Container",
+          "experience": 31
+        },
+        {
+          "rank": "2ND_OFFICER",
+          "vesselType": "Bulk Carrier",
+          "experience": 59
+        }
+      ],
+      "experienceInRank": 3,
+      "nationalities": [
+        "Swedish"
+      ],
+      "salaryExpectation": {
+        "voyagePerMonth": {
+          "amount": "999",
+          "currency": "EUR"
+        }
+      },
+      "verificationStatus": "PROFILE_REQUESTED",
+      "comment": "EggHead to Elbaf testing Gods Knights",
+      "interviewInformation": {
+        "invitationSent": false
+      },
+      "contactRequestInformation": {
+        "contactRequestSent": false
+      },
+      "savedCandidateId": "67ff9d153f80e0cb0562e404",
+      "engineTypeExperience": null,
+      "minEnginePowerExperience": 0,
+      "verificationRequested": true,
+      "ltAvU": 0,
+      "ltAc": 0,
+      "achievements": []
+    },
+    {
+      "profileVisitedStatus": "VIEWED",
+      "isFavourite": false,
+      "subProfileId": "61e12af1f17e690c4edd1c17",
+      "number": 72,
+      "pictureUrl": "",
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "countryCode": [
+        "Armenia (+374)"
+      ],
+      "mobile": "",
+      "gender": "MALE",
+      "ranks": {
+        "current": "Chief Officer",
+        "alternate": ""
+      },
+      "experience": {
+        "vesselExperience": [],
+        "rankExperience": [],
+        "seagoingExperience": []
+      },
+      "trainings": {
+        "additionalTrainings": [],
+        "stcwTrainings": []
+      },
+      "availabilityDate": 1643701740,
+      "availabilityDateTime": "2022-02-01T07:49:00Z",
+      "dateOfBirth": "1641109740",
+      "covidVaccination": false,
+      "visas": {
+        "usVisa": false,
+        "schengenVisa": false
+      },
+      "residencePermit": [],
+      "vesselTypeExperienceInRank": [],
+      "experienceInRank": 0,
+      "nationalities": [
+        "Albanian",
+        "Angolan"
+      ],
+      "salaryExpectation": {
+        "voyagePerMonth": {
+          "amount": "111",
+          "currency": "EUR"
+        }
+      },
+      "verificationStatus": "PROFILE_REQUESTED",
+      "comment": "Dev testing comments on Search",
+      "interviewInformation": {
+        "invitationSent": false
+      },
+      "contactRequestInformation": {
+        "contactRequestSent": false
+      },
+      "savedCandidateId": "68186861e833cc08a24517b8",
+      "engineTypeExperience": null,
+      "minEnginePowerExperience": 0,
+      "verificationRequested": false,
+      "ltAvU": 0,
+      "ltAc": 0,
+      "achievements": []
+    },
+    {
+      "profileVisitedStatus": "VIEWED",
+      "isFavourite": false,
+      "subProfileId": "61ddeef7a0d47d94dc797002",
+      "number": 20,
+      "pictureUrl": "",
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "countryCode": [
+        "Afghanistan (+93)"
+      ],
+      "mobile": "",
+      "gender": "MALE",
+      "ranks": {
+        "current": "Chief Officer",
+        "alternate": "Master"
+      },
+      "experience": {
+        "vesselExperience": [],
+        "rankExperience": [
           {
             "rank": "MASTER",
-            "vesselType": "Container",
-            "experience": 29
+            "exp": 0
           }
         ],
-        "experienceInRank": 0,
-        "nationalities": [
-          "Angolan"
-        ],
-        "salaryExpectation": {
-          "voyagePerMonth": {
-            "amount": "3445",
-            "currency": "USD"
+        "seagoingExperience": [
+          {
+            "id": 20,
+            "imo": "true",
+            "vesselName": "false",
+            "rank": "MASTER",
+            "embarkationDate": {
+              "T": 1641934583,
+              "I": 0
+            },
+            "disembarkationDate": {
+              "T": 1641934583,
+              "I": 0
+            },
+            "netSeagoingDays": 0,
+            "MainEngineDesigner": "Deutz",
+            "mainEngineModel": "SBV8M628",
+            "engineType": "",
+            "mainEngineKW": 3050,
+            "mainEngineStrokeType": "4",
+            "grt": 0,
+            "dwt": 0,
+            "teu": 0,
+            "technicalManager": "",
+            "vesselType": "",
+            "scrubberDesigner": "",
+            "scrubberType": "",
+            "pumpType": "",
+            "craneSWL": "",
+            "gearless": false,
+            "operator": ""
           }
-        },
-        "verificationStatus": "READY_FOR_MATCH",
-        "comment": "Testing on Search Qv with Ironman",
-        "interviewInformation": {
-          "invitationSent": false
-        },
-        "contactRequestInformation": {
-          "contactRequestSent": false
-        },
-        "savedCandidateId": "",
-        "engineTypeExperience": null,
-        "minEnginePowerExperience": 0,
-        "verificationRequested": false,
-        "ltAvU": 0,
-        "ltAc": 0,
-        "achievements": []
+        ]
       },
-      {
-        "profileVisitedStatus": "NOT_VIEWED",
-        "isFavourite": false,
-        "subProfileId": "61ea7e806b29f405ac667b48",
-        "number": 105,
-        "pictureUrl": "",
-        "firstName": "",
-        "lastName": "",
-        "email": "",
-        "countryCode": [
-          "Greece (+30)"
+      "trainings": {
+        "additionalTrainings": [
+          "B&W/MAN"
         ],
-        "mobile": "",
-        "gender": "FEMALE",
-        "ranks": {
-          "current": "2nd Engineer",
-          "alternate": ""
-        },
-        "experience": {
-          "vesselExperience": [
-            {
-              "vesselType": "Offshore",
-              "exp": 9
-            }
-          ],
-          "rankExperience": [
-            {
-              "rank": "CHIEF_OFFICER",
-              "exp": 9
-            }
-          ],
-          "seagoingExperience": [
-            {
-              "id": 669,
-              "imo": "4908559",
-              "vesselName": "SAYURALA",
-              "rank": "CHIEF_OFFICER",
-              "embarkationDate": {
-                "T": 1642412460,
-                "I": 0
-              },
-              "disembarkationDate": {
-                "T": 1643190060,
-                "I": 0
-              },
-              "netSeagoingDays": 9,
-              "MainEngineDesigner": "M.T.U.",
-              "mainEngineModel": "20V8000M71L",
-              "engineType": "",
-              "mainEngineKW": 18200,
-              "mainEngineStrokeType": "4",
-              "grt": 3319,
-              "dwt": 473,
-              "teu": 0,
-              "technicalManager": "",
-              "vesselType": "Offshore",
-              "scrubberDesigner": "",
-              "scrubberType": "",
-              "pumpType": "",
-              "craneSWL": "0",
-              "gearless": false
-            }
-          ]
-        },
-        "trainings": {
-          "additionalTrainings": [],
-          "stcwTrainings": [
-            "Basic Safety Training A-VI/1",
-            "Proficiency in survival crafts and rescue boats other than fast rescue boats A-VI/2-1"
-          ]
-        },
-        "availabilityDate": 1641049320,
-        "availabilityDateTime": "2022-01-01T15:02:00Z",
-        "dateOfBirth": "1642584960",
-        "covidVaccination": false,
-        "visas": {
-          "usVisa": false,
-          "schengenVisa": false
-        },
-        "residencePermit": [],
-        "vesselTypeExperienceInRank": [
-          {
-            "rank": "CHIEF_OFFICER",
-            "vesselType": "Offshore",
-            "experience": 9
-          }
-        ],
-        "experienceInRank": 0,
-        "nationalities": [
-          "Andorran"
-        ],
-        "salaryExpectation": {
-          "voyagePerMonth": {
-            "amount": "456",
-            "currency": "USD"
-          }
-        },
-        "verificationStatus": "READY_FOR_MATCH_REVIEW",
-        "comment": "",
-        "interviewInformation": {
-          "invitationSent": false
-        },
-        "contactRequestInformation": {
-          "contactRequestSent": false
-        },
-        "savedCandidateId": "",
-        "engineTypeExperience": null,
-        "minEnginePowerExperience": 0,
-        "verificationRequested": false,
-        "ltAvU": 0,
-        "ltAc": 0,
-        "achievements": []
+        "stcwTrainings": [
+          "Basic Safety Training A-VI/1"
+        ]
       },
-      {
-        "profileVisitedStatus": "NOT_VIEWED",
-        "isFavourite": false,
-        "subProfileId": "61f17dc481209ef1e699ee33",
-        "number": 117,
-        "pictureUrl": "",
-        "firstName": "",
-        "lastName": "",
-        "email": "",
-        "countryCode": [
-          "Andorra (+376)"
-        ],
-        "mobile": "",
-        "gender": "MALE",
-        "ranks": {
-          "current": "2nd Engineer",
-          "alternate": "3rd Engineer"
-        },
-        "experience": {
-          "vesselExperience": [
-            {
-              "vesselType": "LNG Carrier",
-              "exp": 985
-            },
-            {
-              "vesselType": "LPG Carrier",
-              "exp": 278
-            }
-          ],
-          "rankExperience": [
-            {
-              "rank": "2ND_ENGINEER",
-              "exp": 1142
-            },
-            {
-              "rank": "3RD_ENGINEER",
-              "exp": 121
-            }
-          ],
-          "seagoingExperience": [
-            {
-              "id": 102500,
-              "imo": "9873852",
-              "vesselName": "BW HELIOS",
-              "rank": "2ND_ENGINEER",
-              "embarkationDate": {
-                "T": 1708992000,
-                "I": 0
-              },
-              "disembarkationDate": {
-                "T": 1720396800,
-                "I": 0
-              },
-              "netSeagoingDays": 132,
-              "MainEngineDesigner": "MAN-B&W",
-              "mainEngineModel": "5G70ME-C9-GI",
-              "engineType": "MAN_ME",
-              "mainEngineKW": 21550,
-              "mainEngineStrokeType": "2",
-              "grt": 114000,
-              "dwt": 95000,
-              "teu": 0,
-              "technicalManager": "Unknown",
-              "vesselType": "LNG Carrier",
-              "scrubberDesigner": "",
-              "scrubberType": "",
-              "pumpType": "",
-              "craneSWL": "0",
-              "gearless": false
-            },
-            {
-              "id": 102500,
-              "imo": "9873852",
-              "vesselName": "BW HELIOS",
-              "rank": "2ND_ENGINEER",
-              "embarkationDate": {
-                "T": 1686787200,
-                "I": 0
-              },
-              "disembarkationDate": {
-                "T": 1731456000,
-                "I": 0
-              },
-              "netSeagoingDays": 517,
-              "MainEngineDesigner": "MAN-B&W",
-              "mainEngineModel": "5G70ME-C9-GI",
-              "engineType": "MAN_ME",
-              "mainEngineKW": 21550,
-              "mainEngineStrokeType": "2",
-              "grt": 114000,
-              "dwt": 95000,
-              "teu": 0,
-              "technicalManager": "Unknown",
-              "vesselType": "LNG Carrier",
-              "scrubberDesigner": "",
-              "scrubberType": "",
-              "pumpType": "",
-              "craneSWL": "0",
-              "gearless": false
-            },
-            {
-              "id": 102500,
-              "imo": "9873852",
-              "vesselName": "BW HELIOS",
-              "rank": "2ND_ENGINEER",
-              "embarkationDate": {
-                "T": 1659312000,
-                "I": 0
-              },
-              "disembarkationDate": {
-                "T": 1675123200,
-                "I": 0
-              },
-              "netSeagoingDays": 183,
-              "MainEngineDesigner": "MAN-B&W",
-              "mainEngineModel": "5G70ME-C9-GI",
-              "engineType": "MAN_ME",
-              "mainEngineKW": 21550,
-              "mainEngineStrokeType": "2",
-              "grt": 114000,
-              "dwt": 95000,
-              "teu": 0,
-              "technicalManager": "Thome Ship Management Pte Ltd",
-              "vesselType": "LNG Carrier",
-              "scrubberDesigner": "",
-              "scrubberType": "",
-              "pumpType": "",
-              "craneSWL": "0",
-              "gearless": false
-            },
-            {
-              "id": 102500,
-              "imo": "9873852",
-              "vesselName": "BW HELIOS",
-              "rank": "2ND_ENGINEER",
-              "embarkationDate": {
-                "T": 1645747200,
-                "I": 0
-              },
-              "disembarkationDate": {
-                "T": 1658966400,
-                "I": 0
-              },
-              "netSeagoingDays": 153,
-              "MainEngineDesigner": "MAN-B&W",
-              "mainEngineModel": "5G70ME-C9-GI",
-              "engineType": "MAN_ME",
-              "mainEngineKW": 21550,
-              "mainEngineStrokeType": "2",
-              "grt": 114000,
-              "dwt": 95000,
-              "teu": 0,
-              "technicalManager": "Thome Ship Management Pte Ltd",
-              "vesselType": "LNG Carrier",
-              "scrubberDesigner": "",
-              "scrubberType": "",
-              "pumpType": "",
-              "craneSWL": "0",
-              "gearless": false
-            },
-            {
-              "id": 92777,
-              "imo": "9704506",
-              "vesselName": "NAVIGATOR CENTAURI",
-              "rank": "2ND_ENGINEER",
-              "embarkationDate": {
-                "T": 1622505600,
-                "I": 0
-              },
-              "disembarkationDate": {
-                "T": 1636070400,
-                "I": 0
-              },
-              "netSeagoingDays": 157,
-              "MainEngineDesigner": "MAN-B&W",
-              "mainEngineModel": "6S50ME-C8",
-              "engineType": "MAN_ME",
-              "mainEngineKW": 7170,
-              "mainEngineStrokeType": "2",
-              "grt": 17208,
-              "dwt": 16679,
-              "teu": 0,
-              "technicalManager": "Thome Ship Management Pte Ltd",
-              "vesselType": "LPG Carrier",
-              "scrubberDesigner": "",
-              "scrubberType": "",
-              "pumpType": "",
-              "craneSWL": "0",
-              "gearless": false
-            },
-            {
-              "id": 92777,
-              "imo": "9704506",
-              "vesselName": "NAVIGATOR CENTAURI",
-              "rank": "3RD_ENGINEER",
-              "embarkationDate": {
-                "T": 1606780800,
-                "I": 0
-              },
-              "disembarkationDate": {
-                "T": 1617235200,
-                "I": 0
-              },
-              "netSeagoingDays": 121,
-              "MainEngineDesigner": "MAN-B&W",
-              "mainEngineModel": "6S50ME-C8",
-              "engineType": "MAN_ME",
-              "mainEngineKW": 7170,
-              "mainEngineStrokeType": "2",
-              "grt": 17208,
-              "dwt": 16679,
-              "teu": 0,
-              "technicalManager": "Thome Ship Management Pte Ltd",
-              "vesselType": "LPG Carrier",
-              "scrubberDesigner": "",
-              "scrubberType": "",
-              "pumpType": "",
-              "craneSWL": "0",
-              "gearless": false
-            }
-          ]
-        },
-        "trainings": {
-          "additionalTrainings": [
-            "MAN ME Training",
-            "RT Flex Sulzer Engine",
-            "High Voltage",
-            "B&W/MAN"
-          ],
-          "stcwTrainings": [
-            "Advanced Training for Liquefied Gas Tanker Cargo Operations (A-V/1-2-2)",
-            "Proficiency in survival crafts and rescue boats other than fast rescue boats A-VI/2-1",
-            "Advanced Training for Oil Tanker Cargo Operations (A-V/1-1-2)",
-            "Basic Safety Training A-VI/1",
-            "Medical First Aid A-VI/4-1",
-            "Advanced Fire Fighting A-VI/3",
-            "Seafarer with designated security duties A-VI/6-2",
-            "Advanced Training for Chemical Tanker Cargo Operations (A-V/1-1-3)",
-            "Ship Security Officer A-VI/5"
-          ]
-        },
-        "availabilityDate": 1745280000,
-        "availabilityDateTime": "2025-04-22T00:00:00Z",
-        "dateOfBirth": "941932800",
-        "covidVaccination": false,
-        "visas": {
-          "usVisa": true,
-          "schengenVisa": true
-        },
-        "residencePermit": [],
-        "vesselTypeExperienceInRank": [
-          {
-            "rank": "3RD_ENGINEER",
-            "vesselType": "LPG Carrier",
-            "experience": 121
-          },
-          {
-            "rank": "2ND_ENGINEER",
-            "vesselType": "LNG Carrier",
-            "experience": 985
-          },
-          {
-            "rank": "2ND_ENGINEER",
-            "vesselType": "LPG Carrier",
-            "experience": 157
-          }
-        ],
-        "experienceInRank": 38,
-        "nationalities": [
-          "Romanian"
-        ],
-        "salaryExpectation": {
-          "voyagePerMonth": {
-            "amount": "12800",
-            "currency": "USD"
-          }
-        },
-        "verificationStatus": "HIRED_REVIEW",
-        "comment": "",
-        "interviewInformation": {
-          "invitationSent": false
-        },
-        "contactRequestInformation": {
-          "contactRequestSent": false
-        },
-        "savedCandidateId": "",
-        "engineTypeExperience": null,
-        "minEnginePowerExperience": 0,
-        "verificationRequested": false,
-        "ltAvU": 1740662114,
-        "ltAc": 1740662114,
-        "achievements": []
+      "availabilityDate": 1641934583,
+      "availabilityDateTime": "2022-01-11T20:56:23Z",
+      "dateOfBirth": "1641934583",
+      "covidVaccination": false,
+      "visas": {
+        "usVisa": false,
+        "schengenVisa": false
       },
-      {
-        "profileVisitedStatus": "NOT_VIEWED",
-        "isFavourite": false,
-        "subProfileId": "61f192a6ee1cba459fa6dbff",
-        "number": 119,
-        "pictureUrl": "",
-        "firstName": "",
-        "lastName": "",
-        "email": "",
-        "countryCode": [
-          "Angola (+244)"
-        ],
-        "mobile": "",
-        "gender": "FEMALE",
-        "ranks": {
-          "current": "2nd Engineer",
-          "alternate": "3rd Engineer"
-        },
-        "experience": {
-          "vesselExperience": [
-            {
-              "vesselType": "Bulk Carrier",
-              "exp": 636
-            }
-          ],
-          "rankExperience": [
-            {
-              "rank": "2ND_ENGINEER",
-              "exp": 636
-            }
-          ],
-          "seagoingExperience": [
-            {
-              "id": 83044,
-              "imo": "9537630",
-              "vesselName": "XIN RONG",
-              "rank": "2ND_ENGINEER",
-              "embarkationDate": {
-                "T": 1651363200,
-                "I": 0
-              },
-              "disembarkationDate": {
-                "T": 1664668800,
-                "I": 0
-              },
-              "netSeagoingDays": 154,
-              "MainEngineDesigner": "MAN-B&W",
-              "mainEngineModel": "7S50MC-C",
-              "engineType": "MAN_MC",
-              "mainEngineKW": 11060,
-              "mainEngineStrokeType": "2",
-              "grt": 43506,
-              "dwt": 79607,
-              "teu": 0,
-              "technicalManager": "South Ocean Ship Management Co",
-              "vesselType": "Bulk Carrier",
-              "scrubberDesigner": "",
-              "scrubberType": "",
-              "pumpType": "",
-              "craneSWL": "0",
-              "gearless": true
-            },
-            {
-              "id": 83044,
-              "imo": "9537630",
-              "vesselName": "XIN RONG",
-              "rank": "2ND_ENGINEER",
-              "embarkationDate": {
-                "T": 1638662400,
-                "I": 0
-              },
-              "disembarkationDate": {
-                "T": 1643673600,
-                "I": 0
-              },
-              "netSeagoingDays": 58,
-              "MainEngineDesigner": "MAN-B&W",
-              "mainEngineModel": "7S50MC-C",
-              "engineType": "MAN_MC",
-              "mainEngineKW": 11060,
-              "mainEngineStrokeType": "2",
-              "grt": 43506,
-              "dwt": 79607,
-              "teu": 0,
-              "technicalManager": "South Ocean Ship Management Co",
-              "vesselType": "Bulk Carrier",
-              "scrubberDesigner": "",
-              "scrubberType": "",
-              "pumpType": "",
-              "craneSWL": "0",
-              "gearless": true
-            },
-            {
-              "id": 83058,
-              "imo": "9537898",
-              "vesselName": "CHRISTINE OLDENDORFF",
-              "rank": "2ND_ENGINEER",
-              "embarkationDate": {
-                "T": 1599523200,
-                "I": 0
-              },
-              "disembarkationDate": {
-                "T": 1626825600,
-                "I": 0
-              },
-              "netSeagoingDays": 316,
-              "MainEngineDesigner": "MAN-B&W",
-              "mainEngineModel": "6S60MC-C",
-              "engineType": "MAN_MC",
-              "mainEngineKW": 13560,
-              "mainEngineStrokeType": "2",
-              "grt": 51239,
-              "dwt": 93077,
-              "teu": 0,
-              "technicalManager": "Thomas Schulte Ship Management",
-              "vesselType": "Bulk Carrier",
-              "scrubberDesigner": "",
-              "scrubberType": "",
-              "pumpType": "",
-              "craneSWL": "0",
-              "gearless": true
-            },
-            {
-              "id": 90832,
-              "imo": "9670731",
-              "vesselName": "VENTURE GOAL",
-              "rank": "2ND_ENGINEER",
-              "embarkationDate": {
-                "T": 1581984000,
-                "I": 0
-              },
-              "disembarkationDate": {
-                "T": 1591315200,
-                "I": 0
-              },
-              "netSeagoingDays": 108,
-              "MainEngineDesigner": "MAN-B&W",
-              "mainEngineModel": "5S50ME-B9",
-              "engineType": "MAN_ME",
-              "mainEngineKW": 6050,
-              "mainEngineStrokeType": "2",
-              "grt": 26411,
-              "dwt": 43479,
-              "teu": 0,
-              "technicalManager": "Thomas Schulte Ship Management",
-              "vesselType": "Bulk Carrier",
-              "scrubberDesigner": "",
-              "scrubberType": "",
-              "pumpType": "",
-              "craneSWL": "30",
-              "gearless": false
-            }
-          ]
-        },
-        "trainings": {
-          "additionalTrainings": [
-            "MAN ME Training",
-            "Energy Efficiency"
-          ],
-          "stcwTrainings": [
-            "Basic Safety Training A-VI/1",
-            "Seafarer with designated security duties A-VI/6-2"
-          ]
-        },
-        "availabilityDate": 1669852800,
-        "availabilityDateTime": "2022-12-01T00:00:00Z",
-        "dateOfBirth": "536889600",
-        "covidVaccination": false,
-        "visas": {
-          "usVisa": false,
-          "schengenVisa": false
-        },
-        "residencePermit": [],
-        "vesselTypeExperienceInRank": [
-          {
-            "rank": "2ND_ENGINEER",
-            "vesselType": "Bulk Carrier",
-            "experience": 636
-          }
-        ],
-        "experienceInRank": 21,
-        "nationalities": [
-          "Indian"
-        ],
-        "salaryExpectation": {
-          "voyagePerMonth": {
-            "amount": "9200",
-            "currency": "EUR"
-          }
-        },
-        "verificationStatus": "READY_FOR_MATCH_REVIEW",
-        "comment": "",
-        "interviewInformation": {
-          "invitationSent": false
-        },
-        "contactRequestInformation": {
-          "contactRequestSent": false
-        },
-        "savedCandidateId": "",
-        "engineTypeExperience": null,
-        "minEnginePowerExperience": 0,
-        "verificationRequested": false,
-        "ltAvU": 0,
-        "ltAc": 1671534562,
-        "achievements": []
+      "residencePermit": [],
+      "vesselTypeExperienceInRank": [],
+      "experienceInRank": 0,
+      "nationalities": null,
+      "salaryExpectation": {
+        "voyagePerMonth": {
+          "amount": "1",
+          "currency": "EUR"
+        }
       },
-      {
-        "profileVisitedStatus": "NOT_VIEWED",
-        "isFavourite": false,
-        "subProfileId": "61fa8ab85b3b5bf978219899",
-        "number": 124,
-        "pictureUrl": "",
-        "firstName": "",
-        "lastName": "",
-        "email": "",
-        "countryCode": [
-          "Canada (+1)"
-        ],
-        "mobile": "",
-        "gender": "MALE",
-        "ranks": {
-          "current": "2nd Engineer",
-          "alternate": "3rd Engineer"
-        },
-        "experience": {
-          "vesselExperience": [
-            {
-              "vesselType": "General Cargo / MPP",
-              "exp": 921
-            }
-          ],
-          "rankExperience": [
-            {
-              "rank": "2ND_ENGINEER",
-              "exp": 921
-            }
-          ],
-          "seagoingExperience": [
-            {
-              "id": 77138,
-              "imo": "9433298",
-              "vesselName": "BBC MARYLAND",
-              "rank": "2ND_ENGINEER",
-              "embarkationDate": {
-                "T": 1714608000,
-                "I": 0
-              },
-              "disembarkationDate": {
-                "T": 1723852800,
-                "I": 0
-              },
-              "netSeagoingDays": 107,
-              "MainEngineDesigner": "MaK",
-              "mainEngineModel": "6M43C",
-              "engineType": "MAK",
-              "mainEngineKW": 5400,
-              "mainEngineStrokeType": "4",
-              "grt": 9627,
-              "dwt": 12720,
-              "teu": 665,
-              "technicalManager": "Delft Schiffahrt GmbH & Co KG",
-              "vesselType": "General Cargo / MPP",
-              "scrubberDesigner": "",
-              "scrubberType": "",
-              "pumpType": "",
-              "craneSWL": "150",
-              "gearless": false
-            },
-            {
-              "id": 77138,
-              "imo": "9433298",
-              "vesselName": "BBC MARYLAND",
-              "rank": "2ND_ENGINEER",
-              "embarkationDate": {
-                "T": 1698451200,
-                "I": 0
-              },
-              "disembarkationDate": {
-                "T": 1704672000,
-                "I": 0
-              },
-              "netSeagoingDays": 72,
-              "MainEngineDesigner": "MaK",
-              "mainEngineModel": "6M43C",
-              "engineType": "MAK",
-              "mainEngineKW": 5400,
-              "mainEngineStrokeType": "4",
-              "grt": 9627,
-              "dwt": 12720,
-              "teu": 665,
-              "technicalManager": "Delft Schiffahrt GmbH & Co KG",
-              "vesselType": "General Cargo / MPP",
-              "scrubberDesigner": "",
-              "scrubberType": "",
-              "pumpType": "",
-              "craneSWL": "150",
-              "gearless": false
-            },
-            {
-              "id": 61838,
-              "imo": "9197478",
-              "vesselName": "WIEBKE",
-              "rank": "2ND_ENGINEER",
-              "embarkationDate": {
-                "T": 1664582400,
-                "I": 0
-              },
-              "disembarkationDate": {
-                "T": 1696032000,
-                "I": 0
-              },
-              "netSeagoingDays": 364,
-              "MainEngineDesigner": "MAN",
-              "mainEngineModel": "9L48/60",
-              "engineType": "",
-              "mainEngineKW": 9450,
-              "mainEngineStrokeType": "4",
-              "grt": 8397,
-              "dwt": 9370,
-              "teu": 0,
-              "technicalManager": "SAL Ship Management UG",
-              "vesselType": "General Cargo / MPP",
-              "scrubberDesigner": "",
-              "scrubberType": "",
-              "pumpType": "",
-              "craneSWL": "320",
-              "gearless": false
-            },
-            {
-              "id": 59041,
-              "imo": "9147681",
-              "vesselName": "ANNEMIEKE",
-              "rank": "2ND_ENGINEER",
-              "embarkationDate": {
-                "T": 1643932800,
-                "I": 0
-              },
-              "disembarkationDate": {
-                "T": 1654041600,
-                "I": 0
-              },
-              "netSeagoingDays": 117,
-              "MainEngineDesigner": "MAN",
-              "mainEngineModel": "9L48/60",
-              "engineType": "",
-              "mainEngineKW": 9450,
-              "mainEngineStrokeType": "4",
-              "grt": 8388,
-              "dwt": 9544,
-              "teu": 0,
-              "technicalManager": "SAL Ship Management UG",
-              "vesselType": "General Cargo / MPP",
-              "scrubberDesigner": "",
-              "scrubberType": "",
-              "pumpType": "",
-              "craneSWL": "275",
-              "gearless": false
-            },
-            {
-              "id": 79207,
-              "imo": "9467160",
-              "vesselName": "KLARA",
-              "rank": "2ND_ENGINEER",
-              "embarkationDate": {
-                "T": 1639440000,
-                "I": 0
-              },
-              "disembarkationDate": {
-                "T": 1661990400,
-                "I": 0
-              },
-              "netSeagoingDays": 261,
-              "MainEngineDesigner": "MAN",
-              "mainEngineModel": "7L58/64CD",
-              "engineType": "",
-              "mainEngineKW": 9800,
-              "mainEngineStrokeType": "4",
-              "grt": 15549,
-              "dwt": 19359,
-              "teu": 1011,
-              "technicalManager": "SAL Ship Management UG",
-              "vesselType": "General Cargo / MPP",
-              "scrubberDesigner": "",
-              "scrubberType": "",
-              "pumpType": "",
-              "craneSWL": "400",
-              "gearless": false
-            }
-          ]
-        },
-        "trainings": {
-          "additionalTrainings": [
-            "MAN ME Training"
-          ],
-          "stcwTrainings": [
-            "Basic Safety - Personal survival techniques A-VI/1",
-            "Basic Safety - Elementary first aid A-VI/1",
-            "Basic Safety - Personal safety and social responsibility A-VI/1"
-          ]
-        },
-        "availabilityDate": 1741772526,
-        "availabilityDateTime": "0001-01-01T00:00:00Z",
-        "dateOfBirth": "697161600",
-        "covidVaccination": false,
-        "visas": {
-          "usVisa": false,
-          "schengenVisa": false
-        },
-        "residencePermit": [],
-        "vesselTypeExperienceInRank": [
-          {
-            "rank": "2ND_ENGINEER",
-            "vesselType": "General Cargo / MPP",
-            "experience": 921
-          }
-        ],
-        "experienceInRank": 30,
-        "nationalities": [
-          "German"
-        ],
-        "salaryExpectation": {
-          "voyagePerMonth": {
-            "amount": "7800",
-            "currency": "USD"
-          }
-        },
-        "verificationStatus": "HIRED",
-        "comment": "",
-        "interviewInformation": {
-          "invitationSent": false
-        },
-        "contactRequestInformation": {
-          "contactRequestSent": false
-        },
-        "savedCandidateId": "",
-        "engineTypeExperience": null,
-        "minEnginePowerExperience": 0,
-        "verificationRequested": false,
-        "ltAvU": 1733741397,
-        "ltAc": 1733741474,
-        "achievements": []
+      "verificationStatus": "READY_FOR_MATCH",
+      "comment": "QV testing",
+      "interviewInformation": {
+        "invitationSent": false
       },
-      {
-        "profileVisitedStatus": "VIEWED",
-        "isFavourite": false,
-        "subProfileId": "621e244866501bfe65e9a0a0",
-        "number": 1178,
-        "pictureUrl": "",
-        "firstName": "",
-        "lastName": "",
-        "email": "",
-        "countryCode": [
-          "Germany (+49)"
-        ],
-        "mobile": "",
-        "gender": "FEMALE",
-        "ranks": {
-          "current": "2nd Engineer",
-          "alternate": "3rd Engineer"
-        },
-        "experience": {
-          "vesselExperience": [
-            {
-              "vesselType": "Offshore Support Vessel",
-              "exp": 381
-            },
-            {
-              "vesselType": "Crude Tanker",
-              "exp": 702
-            },
-            {
-              "vesselType": "Chemical Tanker",
-              "exp": 54
-            }
-          ],
-          "rankExperience": [
-            {
-              "rank": "2ND_ENGINEER",
-              "exp": 688
-            },
-            {
-              "rank": "3RD_ENGINEER",
-              "exp": 449
-            }
-          ],
-          "seagoingExperience": [
-            {
-              "id": 96815,
-              "imo": "9769764",
-              "vesselName": "APOLLO",
-              "rank": "2ND_ENGINEER",
-              "embarkationDate": {
-                "T": 1703635200,
-                "I": 0
-              },
-              "disembarkationDate": {
-                "T": 1717113600,
-                "I": 0
-              },
-              "netSeagoingDays": 156,
-              "MainEngineDesigner": "A.B.C.",
-              "mainEngineModel": "12VDZC",
-              "engineType": "ABC",
-              "mainEngineKW": 11200,
-              "mainEngineStrokeType": "4",
-              "grt": 10510,
-              "dwt": 6070,
-              "teu": 0,
-              "technicalManager": "DEME Offshore LU SA",
-              "vesselType": "Offshore Support Vessel",
-              "scrubberDesigner": "",
-              "scrubberType": "",
-              "pumpType": "",
-              "craneSWL": "800",
-              "gearless": false
-            },
-            {
-              "id": 96815,
-              "imo": "9769764",
-              "vesselName": "APOLLO",
-              "rank": "2ND_ENGINEER",
-              "embarkationDate": {
-                "T": 1692576000,
-                "I": 0
-              },
-              "disembarkationDate": {
-                "T": 1698537600,
-                "I": 0
-              },
-              "netSeagoingDays": 69,
-              "MainEngineDesigner": "A.B.C.",
-              "mainEngineModel": "12VDZC",
-              "engineType": "ABC",
-              "mainEngineKW": 11200,
-              "mainEngineStrokeType": "4",
-              "grt": 10510,
-              "dwt": 6070,
-              "teu": 0,
-              "technicalManager": "DEME Offshore LU SA",
-              "vesselType": "Offshore Support Vessel",
-              "scrubberDesigner": "",
-              "scrubberType": "",
-              "pumpType": "",
-              "craneSWL": "800",
-              "gearless": false
-            },
-            {
-              "id": 96815,
-              "imo": "9769764",
-              "vesselName": "APOLLO",
-              "rank": "2ND_ENGINEER",
-              "embarkationDate": {
-                "T": 1681776000,
-                "I": 0
-              },
-              "disembarkationDate": {
-                "T": 1688515200,
-                "I": 0
-              },
-              "netSeagoingDays": 78,
-              "MainEngineDesigner": "A.B.C.",
-              "mainEngineModel": "12VDZC",
-              "engineType": "ABC",
-              "mainEngineKW": 11200,
-              "mainEngineStrokeType": "4",
-              "grt": 10510,
-              "dwt": 6070,
-              "teu": 0,
-              "technicalManager": "DEME Offshore LU SA",
-              "vesselType": "Offshore Support Vessel",
-              "scrubberDesigner": "",
-              "scrubberType": "",
-              "pumpType": "",
-              "craneSWL": "800",
-              "gearless": false
-            },
-            {
-              "id": 96815,
-              "imo": "9769764",
-              "vesselName": "APOLLO",
-              "rank": "2ND_ENGINEER",
-              "embarkationDate": {
-                "T": 1668643200,
-                "I": 0
-              },
-              "disembarkationDate": {
-                "T": 1675382400,
-                "I": 0
-              },
-              "netSeagoingDays": 78,
-              "MainEngineDesigner": "A.B.C.",
-              "mainEngineModel": "12VDZC",
-              "engineType": "ABC",
-              "mainEngineKW": 11200,
-              "mainEngineStrokeType": "4",
-              "grt": 10510,
-              "dwt": 6070,
-              "teu": 0,
-              "technicalManager": "DEME Offshore LU SA",
-              "vesselType": "Offshore Support Vessel",
-              "scrubberDesigner": "",
-              "scrubberType": "",
-              "pumpType": "",
-              "craneSWL": "800",
-              "gearless": false
-            },
-            {
-              "id": 66264,
-              "imo": "9273844",
-              "vesselName": "AFRAMAX RIO",
-              "rank": "2ND_ENGINEER",
-              "embarkationDate": {
-                "T": 1658361600,
-                "I": 0
-              },
-              "disembarkationDate": {
-                "T": 1667174400,
-                "I": 0
-              },
-              "netSeagoingDays": 102,
-              "MainEngineDesigner": "Sulzer",
-              "mainEngineModel": "7RTA62",
-              "engineType": "WARTSILA_RTA",
-              "mainEngineKW": 12800,
-              "mainEngineStrokeType": "2",
-              "grt": 57948,
-              "dwt": 107113,
-              "teu": 0,
-              "technicalManager": "Executive Ship Management",
-              "vesselType": "Crude Tanker",
-              "scrubberDesigner": "",
-              "scrubberType": "",
-              "pumpType": "",
-              "craneSWL": "0",
-              "gearless": false
-            },
-            {
-              "id": 66264,
-              "imo": "9273844",
-              "vesselName": "AFRAMAX RIO",
-              "rank": "2ND_ENGINEER",
-              "embarkationDate": {
-                "T": 1631059200,
-                "I": 0
-              },
-              "disembarkationDate": {
-                "T": 1648771200,
-                "I": 0
-              },
-              "netSeagoingDays": 205,
-              "MainEngineDesigner": "Sulzer",
-              "mainEngineModel": "7RTA62",
-              "engineType": "WARTSILA_RTA",
-              "mainEngineKW": 12800,
-              "mainEngineStrokeType": "2",
-              "grt": 57948,
-              "dwt": 107113,
-              "teu": 0,
-              "technicalManager": "Executive Ship Management",
-              "vesselType": "Crude Tanker",
-              "scrubberDesigner": "",
-              "scrubberType": "",
-              "pumpType": "",
-              "craneSWL": "0",
-              "gearless": false
-            },
-            {
-              "id": 66264,
-              "imo": "9273844",
-              "vesselName": "AFRAMAX RIO",
-              "rank": "3RD_ENGINEER",
-              "embarkationDate": {
-                "T": 1583020800,
-                "I": 0
-              },
-              "disembarkationDate": {
-                "T": 1617148800,
-                "I": 0
-              },
-              "netSeagoingDays": 395,
-              "MainEngineDesigner": "Sulzer",
-              "mainEngineModel": "7RTA62",
-              "engineType": "WARTSILA_RTA",
-              "mainEngineKW": 12800,
-              "mainEngineStrokeType": "2",
-              "grt": 57948,
-              "dwt": 107113,
-              "teu": 0,
-              "technicalManager": "Executive Ship Management",
-              "vesselType": "Crude Tanker",
-              "scrubberDesigner": "",
-              "scrubberType": "",
-              "pumpType": "",
-              "craneSWL": "0",
-              "gearless": false
-            },
-            {
-              "id": 102699,
-              "imo": "9877640",
-              "vesselName": "SOLAR SKYLER",
-              "rank": "3RD_ENGINEER",
-              "embarkationDate": {
-                "T": 1573776000,
-                "I": 0
-              },
-              "disembarkationDate": {
-                "T": 1578441600,
-                "I": 0
-              },
-              "netSeagoingDays": 54,
-              "MainEngineDesigner": "MAN-B&W",
-              "mainEngineModel": "6S46ME-B8",
-              "engineType": "MAN_ME",
-              "mainEngineKW": 7000,
-              "mainEngineStrokeType": "2",
-              "grt": 17915,
-              "dwt": 25039,
-              "teu": 0,
-              "technicalManager": "Fleet Management Ltd-HKG",
-              "vesselType": "Chemical Tanker",
-              "scrubberDesigner": "",
-              "scrubberType": "",
-              "pumpType": "",
-              "craneSWL": "0",
-              "gearless": false
-            }
-          ]
-        },
-        "trainings": {
-          "additionalTrainings": [
-            "MAN ME Training",
-            "Energy Efficiency"
-          ],
-          "stcwTrainings": [
-            "Basic Safety - Elementary first aid A-VI/1"
-          ]
-        },
-        "availabilityDate": 1744934400,
-        "availabilityDateTime": "2025-04-18T00:00:00Z",
-        "dateOfBirth": "798508800",
-        "covidVaccination": false,
-        "visas": {
-          "usVisa": true,
-          "schengenVisa": false
-        },
-        "residencePermit": [],
-        "vesselTypeExperienceInRank": [
-          {
-            "rank": "3RD_ENGINEER",
-            "vesselType": "Chemical Tanker",
-            "experience": 54
-          },
-          {
-            "rank": "2ND_ENGINEER",
-            "vesselType": "Offshore Support Vessel",
-            "experience": 381
-          },
-          {
-            "rank": "2ND_ENGINEER",
-            "vesselType": "Crude Tanker",
-            "experience": 307
-          },
-          {
-            "rank": "3RD_ENGINEER",
-            "vesselType": "Crude Tanker",
-            "experience": 395
-          }
-        ],
-        "experienceInRank": 22,
-        "nationalities": [
-          "Turkish"
-        ],
-        "salaryExpectation": {
-          "voyagePerMonth": {
-            "amount": "8700",
-            "currency": "USD"
-          }
-        },
-        "verificationStatus": "PROFILE_REQUESTED",
-        "comment": "",
-        "interviewInformation": {
-          "invitationSent": false
-        },
-        "contactRequestInformation": {
-          "contactRequestSent": false
-        },
-        "savedCandidateId": "",
-        "engineTypeExperience": null,
-        "minEnginePowerExperience": 0,
-        "verificationRequested": false,
-        "ltAvU": 1740662095,
-        "ltAc": 1740662095,
-        "achievements": []
+      "contactRequestInformation": {
+        "contactRequestSent": false
       },
-      {
-        "profileVisitedStatus": "VIEWED",
-        "isFavourite": false,
-        "subProfileId": "6311c2a56757196344e3d541",
-        "number": 1288,
-        "pictureUrl": "",
-        "firstName": "",
-        "lastName": "",
-        "email": "",
-        "countryCode": [
-          "Australia (+61)"
-        ],
-        "mobile": "",
-        "gender": "MALE",
-        "ranks": {
-          "current": "2nd Engineer",
-          "alternate": "3rd Engineer"
-        },
-        "experience": {
-          "vesselExperience": [
-            {
-              "vesselType": "Bulk Carrier",
-              "exp": 555
-            },
-            {
-              "vesselType": "Container",
-              "exp": 211
-            }
-          ],
-          "rankExperience": [
-            {
-              "rank": "2ND_ENGINEER",
-              "exp": 766
-            }
-          ],
-          "seagoingExperience": [
-            {
-              "id": 58369,
-              "imo": "9137117",
-              "vesselName": "THOR HORIZON",
-              "rank": "2ND_ENGINEER",
-              "embarkationDate": {
-                "T": 1691280000,
-                "I": 0
-              },
-              "disembarkationDate": {
-                "T": 1707264000,
-                "I": 0
-              },
-              "netSeagoingDays": 185,
-              "MainEngineDesigner": "B&W",
-              "mainEngineModel": "6S60MC",
-              "engineType": "MAN_MC",
-              "mainEngineKW": 12240,
-              "mainEngineStrokeType": "2",
-              "grt": 32491,
-              "dwt": 47119,
-              "teu": 1988,
-              "technicalManager": "Thoresen & Co Bangkok Ltd",
-              "vesselType": "Bulk Carrier",
-              "scrubberDesigner": "",
-              "scrubberType": "",
-              "pumpType": "",
-              "craneSWL": "40",
-              "gearless": false
-            },
-            {
-              "id": 58369,
-              "imo": "9137117",
-              "vesselName": "THOR HORIZON",
-              "rank": "2ND_ENGINEER",
-              "embarkationDate": {
-                "T": 1670371200,
-                "I": 0
-              },
-              "disembarkationDate": {
-                "T": 1680220800,
-                "I": 0
-              },
-              "netSeagoingDays": 114,
-              "MainEngineDesigner": "B&W",
-              "mainEngineModel": "6S60MC",
-              "engineType": "MAN_MC",
-              "mainEngineKW": 12240,
-              "mainEngineStrokeType": "2",
-              "grt": 32491,
-              "dwt": 47119,
-              "teu": 1988,
-              "technicalManager": "Thoresen & Co Bangkok Ltd",
-              "vesselType": "Bulk Carrier",
-              "scrubberDesigner": "",
-              "scrubberType": "",
-              "pumpType": "",
-              "craneSWL": "40",
-              "gearless": false
-            },
-            {
-              "id": 58369,
-              "imo": "9137117",
-              "vesselName": "THOR HORIZON",
-              "rank": "2ND_ENGINEER",
-              "embarkationDate": {
-                "T": 1651363200,
-                "I": 0
-              },
-              "disembarkationDate": {
-                "T": 1662422400,
-                "I": 0
-              },
-              "netSeagoingDays": 128,
-              "MainEngineDesigner": "B&W",
-              "mainEngineModel": "6S60MC",
-              "engineType": "MAN_MC",
-              "mainEngineKW": 12240,
-              "mainEngineStrokeType": "2",
-              "grt": 32491,
-              "dwt": 47119,
-              "teu": 1988,
-              "technicalManager": "Thoresen & Co Bangkok Ltd",
-              "vesselType": "Bulk Carrier",
-              "scrubberDesigner": "",
-              "scrubberType": "",
-              "pumpType": "",
-              "craneSWL": "40",
-              "gearless": false
-            },
-            {
-              "id": 78276,
-              "imo": "9450765",
-              "vesselName": "GENCO MARE",
-              "rank": "2ND_ENGINEER",
-              "embarkationDate": {
-                "T": 1632528000,
-                "I": 0
-              },
-              "disembarkationDate": {
-                "T": 1643587200,
-                "I": 0
-              },
-              "netSeagoingDays": 128,
-              "MainEngineDesigner": "MAN-B&W",
-              "mainEngineModel": "5S50MC-C",
-              "engineType": "MAN_MC",
-              "mainEngineKW": 7900,
-              "mainEngineStrokeType": "2",
-              "grt": 23456,
-              "dwt": 34428,
-              "teu": 0,
-              "technicalManager": "Wallem Shipmanagement Ltd",
-              "vesselType": "Bulk Carrier",
-              "scrubberDesigner": "",
-              "scrubberType": "",
-              "pumpType": "",
-              "craneSWL": "35",
-              "gearless": false
-            },
-            {
-              "id": 68629,
-              "imo": "9308613",
-              "vesselName": "CONTSHIP FUN",
-              "rank": "2ND_ENGINEER",
-              "embarkationDate": {
-                "T": 1612137600,
-                "I": 0
-              },
-              "disembarkationDate": {
-                "T": 1627689600,
-                "I": 0
-              },
-              "netSeagoingDays": 180,
-              "MainEngineDesigner": "MAN",
-              "mainEngineModel": "8L48/60B",
-              "engineType": "",
-              "mainEngineKW": 9600,
-              "mainEngineStrokeType": "4",
-              "grt": 9981,
-              "dwt": 11836,
-              "teu": 957,
-              "technicalManager": "Contships Management Inc",
-              "vesselType": "Container",
-              "scrubberDesigner": "",
-              "scrubberType": "",
-              "pumpType": "",
-              "craneSWL": "45",
-              "gearless": false
-            },
-            {
-              "id": 68629,
-              "imo": "9308613",
-              "vesselName": "CONTSHIP FUN",
-              "rank": "2ND_ENGINEER",
-              "embarkationDate": {
-                "T": 1583020800,
-                "I": 0
-              },
-              "disembarkationDate": {
-                "T": 1585699200,
-                "I": 0
-              },
-              "netSeagoingDays": 31,
-              "MainEngineDesigner": "MAN",
-              "mainEngineModel": "8L48/60B",
-              "engineType": "",
-              "mainEngineKW": 9600,
-              "mainEngineStrokeType": "4",
-              "grt": 9981,
-              "dwt": 11836,
-              "teu": 957,
-              "technicalManager": "Contships Management Inc",
-              "vesselType": "Container",
-              "scrubberDesigner": "",
-              "scrubberType": "",
-              "pumpType": "",
-              "craneSWL": "45",
-              "gearless": false
-            }
-          ]
-        },
-        "trainings": {
-          "additionalTrainings": [
-            "High Voltage",
-            "Energy Efficiency",
-            "MAN ME Training"
-          ],
-          "stcwTrainings": [
-            "Basic Safety - Personal survival techniques A-VI/1",
-            "Basic Training for Officers on Liquefied Gas Tanker Cargo Operations (A-V/1-2-1)",
-            "Basic Safety - Fire prevention and fire fighting A-VI/1"
-          ]
-        },
-        "availabilityDate": 1746662400,
-        "availabilityDateTime": "2025-05-08T00:00:00Z",
-        "dateOfBirth": "558144000",
-        "covidVaccination": false,
-        "visas": {
-          "usVisa": false,
-          "schengenVisa": false
-        },
-        "residencePermit": [],
-        "vesselTypeExperienceInRank": [
-          {
-            "rank": "2ND_ENGINEER",
-            "vesselType": "Bulk Carrier",
-            "experience": 555
-          },
-          {
-            "rank": "2ND_ENGINEER",
-            "vesselType": "Container",
-            "experience": 211
-          }
-        ],
-        "experienceInRank": 25,
-        "nationalities": [
-          "Romanian"
-        ],
-        "salaryExpectation": {
-          "voyagePerMonth": {
-            "amount": "7900",
-            "currency": "USD"
-          }
-        },
-        "verificationStatus": "PROFILE_REQUESTED",
-        "comment": "",
-        "interviewInformation": {
-          "invitationSent": false
-        },
-        "contactRequestInformation": {
-          "contactRequestSent": false
-        },
-        "savedCandidateId": "",
-        "engineTypeExperience": null,
-        "minEnginePowerExperience": 0,
-        "verificationRequested": false,
-        "ltAvU": 1744808330,
-        "ltAc": 1744808330,
-        "achievements": []
-      },
-      {
-        "profileVisitedStatus": "VIEWED",
-        "isFavourite": false,
-        "subProfileId": "6447d84582dad262607ee6d4",
-        "number": 1354,
-        "pictureUrl": "",
-        "firstName": "Isa",
-        "lastName": "",
-        "email": "isaseafarerlikelogicapp@yopmail.com",
-        "countryCode": [
-          "Bolivia (+591)"
-        ],
-        "mobile": "1258663",
-        "gender": "",
-        "ranks": {
-          "current": "4th Officer",
-          "alternate": ""
-        },
-        "experience": {
-          "vesselExperience": [],
-          "rankExperience": [],
-          "seagoingExperience": []
-        },
-        "trainings": {
-          "additionalTrainings": [],
-          "stcwTrainings": []
-        },
-        "availabilityDate": 1686268800,
-        "availabilityDateTime": "2023-06-09T00:00:00Z",
-        "dateOfBirth": "",
-        "covidVaccination": false,
-        "visas": {
-          "usVisa": false,
-          "schengenVisa": true
-        },
-        "residencePermit": [],
-        "vesselTypeExperienceInRank": [],
-        "experienceInRank": 0,
-        "nationalities": null,
-        "salaryExpectation": {
-          "voyagePerMonth": {
-            "amount": "2000",
-            "currency": "USD"
-          }
-        },
-        "verificationStatus": "PROFILE_REQUESTED",
-        "comment": "Testing go-turtle with Aqua Man underwater",
-        "interviewInformation": {
-          "invitationSent": true
-        },
-        "contactRequestInformation": {
-          "contactRequestSent": false
-        },
-        "savedCandidateId": "",
-        "engineTypeExperience": null,
-        "minEnginePowerExperience": 0,
-        "verificationRequested": false,
-        "ltAvU": 1686127779,
-        "ltAc": 1724323920,
-        "achievements": []
-      },
-      {
-        "profileVisitedStatus": "VIEWED",
-        "isFavourite": false,
-        "subProfileId": "649c101feabcc9f946789c44",
-        "number": 1361,
-        "pictureUrl": "",
-        "firstName": "",
-        "lastName": "",
-        "email": "",
-        "countryCode": [
-          "Germany (+49)"
-        ],
-        "mobile": "",
-        "gender": "",
-        "ranks": {
-          "current": "Chief Officer",
-          "alternate": ""
-        },
-        "experience": {
-          "vesselExperience": [
-            {
-              "vesselType": "General Cargo / MPP",
-              "exp": 0
-            }
-          ],
-          "rankExperience": [],
-          "seagoingExperience": [
-            {
-              "id": 1517,
-              "imo": "5034367",
-              "vesselName": "BALASHOV",
-              "rank": "",
-              "embarkationDate": {
-                "T": 0,
-                "I": 0
-              },
-              "disembarkationDate": {
-                "T": 0,
-                "I": 0
-              },
-              "netSeagoingDays": 0,
-              "MainEngineDesigner": "",
-              "mainEngineModel": "",
-              "engineType": "",
-              "mainEngineKW": 0,
-              "mainEngineStrokeType": "0",
-              "grt": 3258,
-              "dwt": 4410,
-              "teu": 0,
-              "technicalManager": "Unknown",
-              "vesselType": "General Cargo / MPP",
-              "scrubberDesigner": "",
-              "scrubberType": "",
-              "pumpType": "",
-              "craneSWL": "0",
-              "gearless": false
-            }
-          ]
-        },
-        "trainings": {
-          "additionalTrainings": [],
-          "stcwTrainings": []
-        },
-        "availabilityDate": 1745582197,
-        "availabilityDateTime": "0001-01-01T00:00:00Z",
-        "dateOfBirth": "526176000",
-        "covidVaccination": false,
-        "visas": {
-          "usVisa": false,
-          "schengenVisa": false
-        },
-        "residencePermit": [],
-        "vesselTypeExperienceInRank": [],
-        "experienceInRank": 0,
-        "nationalities": null,
-        "salaryExpectation": {
-          "voyagePerMonth": {
-            "amount": "1234",
-            "currency": "USD"
-          }
-        },
-        "verificationStatus": "READY_FOR_MATCH",
-        "comment": "Testing comments for leaf ANBU 1361",
-        "interviewInformation": {
-          "invitationSent": false
-        },
-        "contactRequestInformation": {
-          "contactRequestSent": false
-        },
-        "savedCandidateId": "67614908b179b7d1f6304676",
-        "engineTypeExperience": null,
-        "minEnginePowerExperience": 0,
-        "verificationRequested": false,
-        "ltAvU": 0,
-        "ltAc": 1707323105,
-        "achievements": []
-      }
-    ],
-    "version": "NEW_SEARCH"
-  }
+      "savedCandidateId": "681a219253ae68b3d3cc8d9c",
+      "engineTypeExperience": null,
+      "minEnginePowerExperience": 0,
+      "verificationRequested": false,
+      "ltAvU": 0,
+      "ltAc": 1667822246,
+      "achievements": []
+    }
+  ],
+  "version": ""
+}
