@@ -1,6 +1,7 @@
 import React from 'react';
 import CandidatePage from './components/CandidatePage'; 
 
+
 function App() {
   return (
     <div>
